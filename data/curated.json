@@ -412,6 +412,88 @@
     ]
   },
   {
+    "id": "ai-032",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQzODE2ODE0MzMxMzI=",
+    "name": "Gistly",
+    "category": "AI Tools & Agents",
+    "url": "https://gistly-lrylf3wjqa-as.a.run.app",
+    "description": "แอปสรุปความรู้ให้เป็นเนื้อหาอ่านง่าย เพียงใส่ลิงก์ YouTube อัปโหลดไฟล์ หรืออัดเสียงแล้วสรุปได้ทันที ใช้งานผ่าน LINE OA หรือ Web App",
+    "tags": [
+      "Summarizer",
+      "LINE OA",
+      "YouTube",
+      "Audio"
+    ]
+  },
+  {
+    "id": "ai-033",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQzODI4NzgwOTk2Nzk=",
+    "name": "PolySub",
+    "category": "AI Tools & Agents",
+    "url": "https://getpolysub.com/",
+    "description": "Chrome Extension แสดงซับต้นฉบับและซับแปลพร้อมกันบน YouTube, Netflix หรือเว็บใดก็ได้ แปลทันทีหรือใช้ PolySub AI แปลโดยคำนึงถึงบริบท ค้น Transcript สองภาษา แตะคำเพื่อดูความหมายและบันทึกไว้ทบทวน และมี Live Transcribe เมื่อวิดีโอไม่มีซับ",
+    "tags": [
+      "Chrome Extension",
+      "Subtitles",
+      "Translation",
+      "Language Learning"
+    ]
+  },
+  {
+    "id": "ai-034",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQ0MTE1NjQ3NjM0Nzc=",
+    "name": "ThaiInsights DeepSearch",
+    "category": "AI Tools & Agents",
+    "url": "https://deepsearch.thaiinsights.com/welcome",
+    "description": "เครื่องมือ Social Listening ที่รองรับทั้ง Facebook และ TikTok ดึงโพสต์/คอมเมนต์ ค้นหา Keyword เทียบ Engagement ถอดเสียงคลิป TikTok ตรวจจับคอมเมนต์ IO และ Export Report",
+    "tags": [
+      "Social Listening",
+      "Facebook",
+      "TikTok",
+      "Analytics"
+    ]
+  },
+  {
+    "id": "ai-035",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQ0MzA5MzgwOTQ4NzM=",
+    "name": "ThaiProof AI",
+    "category": "AI Tools & Agents",
+    "url": "https://www.thaiproofai.com/",
+    "description": "เครื่องมือด้านภาษาและงานเอกสารภาษาไทย",
+    "tags": [
+      "NLP",
+      "Thai",
+      "Documents"
+    ]
+  },
+  {
+    "id": "ai-036",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQ0NzQxMTE0MjM4ODk=",
+    "name": "Workser Orbit",
+    "category": "AI Tools & Agents",
+    "url": "https://workser.ai/orbit",
+    "description": "Desktop App ที่เปลี่ยน Claude Code และ Codex ที่จ่ายอยู่แล้วให้กลายเป็น AI Tech Team ครบวงจร ตั้งแต่วางแผน ออกแบบ พัฒนา ทดสอบด้วยบราวเซอร์ นำแอปขึ้นรันจริง และจัดการข้อมูลกับไฟล์ผู้ใช้ โดยไม่ต้องรู้โค้ดหรือจัดการ Cloud Infra เอง",
+    "tags": [
+      "Desktop",
+      "AI Agent",
+      "Claude Code",
+      "DevOps"
+    ]
+  },
+  {
+    "id": "ai-037",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQ0ODYxNzE0MjI2ODM=",
+    "name": "Nokkaew",
+    "category": "AI Tools & Agents",
+    "url": "https://nokkaew.co/",
+    "description": "ระบบเพื่อนชวนคุยสำหรับพ่อแม่ เพื่อสร้าง AI Memory ของครอบครัว ให้ยังคุยได้เหมือนท่านยังมีชีวิตอยู่ในวันที่ท่านจากไป",
+    "tags": [
+      "AI Memory",
+      "Family",
+      "Legacy"
+    ]
+  },
+  {
     "id": "biz-001",
     "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjMzMzY2MTQ4NzA5NzI=",
     "name": "DEE-POS",
@@ -1186,6 +1268,213 @@
     ]
   },
   {
+    "id": "biz-060",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQyNzAyOTQ3Nzc2MDQ=",
+    "name": "FoodSpark",
+    "category": "Business & SaaS",
+    "url": "https://foodspark.techsparks-co-th.com/",
+    "description": "แอปสั่งอาหารที่สร้าง GMV ไปแล้วกว่า 100,000 บาท",
+    "tags": [
+      "Food Delivery",
+      "E-Commerce"
+    ]
+  },
+  {
+    "id": "biz-061",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQyOTYyODgxMDgzMzg=",
+    "name": "CheckinFlow",
+    "category": "Business & SaaS",
+    "url": "https://checkinflow.co",
+    "description": "แอปลงเวลางานออนไลน์ที่รันบน Production จริงแล้ว",
+    "tags": [
+      "Attendance",
+      "HR",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "biz-062",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQzNjM4NzQ3NjgyNDY=",
+    "name": "BaoWiw",
+    "category": "Business & SaaS",
+    "url": "https://baowiw.com",
+    "description": "ตัวช่วยคำนวณต้นทุนอาหารและเครื่องดื่ม คำนวณจุดคุ้มทุนต่อวัน มีคู่มือสำหรับมือใหม่เปิดร้าน คลังวัตถุดิบกว่า 200 รายการ และแชร์สูตรให้พนักงานดูได้",
+    "tags": [
+      "Restaurant",
+      "Cost Control",
+      "F&B"
+    ]
+  },
+  {
+    "id": "biz-063",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQzNjM4ODgxMDE1Nzg=",
+    "name": "Barigan Booking System",
+    "category": "Business & SaaS",
+    "url": "https://barigan.com/booking_system/",
+    "description": "ระบบจองบัตรคอนเสิร์ตและจองโต๊ะร้านเหล้า ใช้งานจริงแล้ว ตรวจสลิปอัตโนมัติ",
+    "tags": [
+      "Booking",
+      "Events",
+      "Slip Verification"
+    ]
+  },
+  {
+    "id": "biz-064",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQzNjkxMjE0MzQzODg=",
+    "name": "Kontrax",
+    "category": "Business & SaaS",
+    "url": "https://kontrax.co",
+    "description": "เว็บแอปทำสัญญาจากเทมเพลต ตั้งใจเป็นแพลตฟอร์มกฎหมายราคาย่อมเยาสำหรับคนทั่วไปและ SME ครอบคลุม Flow ตั้งแต่ร่าง แก้ไข จนถึงยกเลิกสัญญาให้ถูกต้องตามกฎหมาย",
+    "tags": [
+      "Legal Tech",
+      "Contracts",
+      "SME"
+    ]
+  },
+  {
+    "id": "biz-065",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQzNjkxMjE0MzQzODg=",
+    "name": "Supplier Risk Model",
+    "category": "Business & SaaS",
+    "url": "https://supplier-risk-model.pages.dev/",
+    "description": "เว็บประเมินความเสี่ยงด้านสิทธิมนุษยชนและสิ่งแวดล้อมของซัพพลายเออร์",
+    "tags": [
+      "ESG",
+      "Risk Assessment",
+      "Supply Chain"
+    ]
+  },
+  {
+    "id": "biz-066",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQzNjk3NDQ3Njc2NTk=",
+    "name": "Logarithm",
+    "category": "Business & SaaS",
+    "url": "https://logarithm.site",
+    "description": "ระบบ Project และ Ticket Management",
+    "tags": [
+      "Project Management",
+      "Ticketing"
+    ]
+  },
+  {
+    "id": "biz-067",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQzOTI2NDgwOTg3MDI=",
+    "name": "ZnapDoc",
+    "category": "Business & SaaS",
+    "url": "https://znapdoc.com",
+    "description": "ระบบแปลง PO จากห้างให้ออกเอกสารครบภายใน 3 นาที แก้ Pain Point ของแบรนด์ที่ต้องรับ PO ตอนตี 3 เพื่อส่งของให้ทัน 8 โมง",
+    "tags": [
+      "Documents",
+      "Retail",
+      "Automation"
+    ]
+  },
+  {
+    "id": "biz-068",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQzOTY2ODgwOTgyOTg=",
+    "name": "EasyRoomBill",
+    "category": "Business & SaaS",
+    "url": "https://www.easyroombill.com/",
+    "description": "ระบบจัดการหอพัก ห้องเช่า และอพาร์ตเมนต์ในระบบเดียว จัดการหลายหอ ออกบิลค่าเช่า/น้ำ/ไฟ ผู้เช่าแจ้งชำระพร้อมแนบสลิป ติดตามบิลค้าง รับแจ้งซ่อม และแจ้งเตือนผ่าน LINE",
+    "tags": [
+      "Property Management",
+      "Billing",
+      "LINE"
+    ]
+  },
+  {
+    "id": "biz-069",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQ0MTkxMDQ3NjI3MjM=",
+    "name": "CDD Co-op Leave System",
+    "category": "Business & SaaS",
+    "url": "https://leave-system.cddco-op.com/",
+    "description": "ระบบลางานออนไลน์สำหรับสหกรณ์",
+    "tags": [
+      "HR",
+      "Leave Management"
+    ]
+  },
+  {
+    "id": "biz-070",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQ0NTg2NjgwOTIxMDA=",
+    "name": "MyCalmoo",
+    "category": "Business & SaaS",
+    "url": "https://mycalmoo.com/start",
+    "description": "ระบบคำนวณต้นทุนและตั้งราคาขายแบบครบจบ ละเอียดและใช้ง่ายกว่า Excel พัฒนามากว่าสองเดือน",
+    "tags": [
+      "Pricing",
+      "Cost",
+      "SMB"
+    ]
+  },
+  {
+    "id": "biz-071",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQ0NTk0MzE0MjUzNTc=",
+    "name": "TNC Thai",
+    "category": "Business & SaaS",
+    "url": "https://www.tncthai.com",
+    "description": "เว็บไซต์บริษัท หนึ่งในชุดระบบที่ผู้พัฒนาทำเอง ร่วมกับแอปจองนวด ระบบหลังบ้านคลินิกกายภาพบำบัด และระบบ CRM กับ Payroll",
+    "tags": [
+      "Corporate Site",
+      "Clinic",
+      "CRM"
+    ]
+  },
+  {
+    "id": "biz-072",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQ0Njk5OTE0MjQzMDE=",
+    "name": "EasyRent",
+    "category": "Business & SaaS",
+    "url": "https://easyrent.co.th",
+    "description": "แพลตฟอร์มเช่ารถทั่วประเทศ จองแบบเดียวกับจองตั๋วเดินทาง ไม่ต้องโทรหาทีละร้าน จ่ายได้หลายช่องทาง ราคาเริ่มต้น 399 บาทต่อวัน มีแอปบน iOS",
+    "tags": [
+      "Car Rental",
+      "Booking",
+      "iOS"
+    ]
+  },
+  {
+    "id": "biz-073",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQ0NzY2OTE0MjM2MzE=",
+    "name": "Super Kart Thailand Registration",
+    "category": "Business & SaaS",
+    "url": "https://register.superkartthailand.com/entrylist",
+    "description": "ระบบรับสมัครและลงทะเบียนพร้อม POS สำหรับงานแข่งรถ Kart และ Super Kart Thailand สร้างโดยผู้ที่เขียนโค้ดไม่เป็นมาก่อน",
+    "tags": [
+      "Events",
+      "Registration",
+      "POS",
+      "Motorsport"
+    ]
+  },
+  {
+    "id": "biz-074",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQ0OTU0MjgwODg0MjQ=",
+    "name": "CourtThai",
+    "category": "Business & SaaS",
+    "url": "https://www.courtthai.com",
+    "description": "ระบบจองสนามกีฬาออนไลน์ เน้นใช้งานง่าย จอง จ่าย จบในที่เดียว พร้อมระบบหลังบ้านครบ",
+    "tags": [
+      "Booking",
+      "Sports Venue",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "biz-075",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQ1MDYwODQ3NTQwMjU=",
+    "name": "Worktray",
+    "category": "Business & SaaS",
+    "url": "https://www.worktray.me",
+    "description": "ระบบ Project Management ที่ต่อ MCP กับ Claude หรือ Codex ได้ สั่งให้ AI อัปเดตการ์ด ดึงข้อมูล สรุป หรือเพิ่ม Assignment ให้คนอื่นได้ เชื่อมต่อ LINE โดยทุกไฟล์และลิงก์ที่ส่งในไลน์จะแปะลงการ์ดอัตโนมัติ พร้อมฟังก์ชัน Share ให้คนนอกดูความคืบหน้า",
+    "tags": [
+      "Project Management",
+      "MCP",
+      "LINE",
+      "Free"
+    ]
+  },
+  {
     "id": "mkt-001",
     "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjMzNjU2NzE1MzQ3MzM=",
     "name": "RakaTookYang (ราคาถูกยัง)",
@@ -1675,6 +1964,159 @@
       "Chrome Extension",
       "Facebook",
       "Live Commerce"
+    ]
+  },
+  {
+    "id": "mkt-039",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQyNjMzNjE0NDQ5NjQ=",
+    "name": "Alpha Genetics",
+    "category": "E-Commerce & Marketing",
+    "url": "https://alphagenetics.vercel.app",
+    "description": "เว็บ E-Commerce พร้อมเวอร์ชันมือถือ",
+    "tags": [
+      "E-Commerce",
+      "Mobile"
+    ]
+  },
+  {
+    "id": "mkt-040",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQyODk4MTE0NDIzMTk=",
+    "name": "CashCowly",
+    "category": "E-Commerce & Marketing",
+    "url": "https://cashcowly.io",
+    "description": "เว็บขาย Chrome Extension พร้อม Extension CashCowly สำหรับวิเคราะห์ตลาด Etsy",
+    "tags": [
+      "Chrome Extension",
+      "Etsy",
+      "Market Research"
+    ]
+  },
+  {
+    "id": "mkt-041",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQzMDkwMDE0NDA0MDA=",
+    "name": "DecoLens",
+    "category": "E-Commerce & Marketing",
+    "url": "https://decolens.app/",
+    "description": "เว็บแอปที่ให้อัปรูปห้องที่ถูกใจแล้วหาเฟอร์นิเจอร์ใกล้เคียงที่ขายจริงในไทยพร้อมราคา ค้นได้ 6 หมวดจากสินค้ากว่า 2,800 รายการ บางรุ่นดูเป็น 3D และวางในห้องจริงด้วย AR ขนาดเท่าของจริงได้",
+    "tags": [
+      "AR",
+      "Computer Vision",
+      "Furniture",
+      "Shopping"
+    ]
+  },
+  {
+    "id": "mkt-042",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQzMTk3MjQ3NzI2NjE=",
+    "name": "PrintKub",
+    "category": "E-Commerce & Marketing",
+    "url": "https://printkub.com/",
+    "description": "บริการงานพิมพ์ออนไลน์",
+    "tags": [
+      "Printing",
+      "E-Commerce"
+    ]
+  },
+  {
+    "id": "mkt-043",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQzMjcwNjgxMDUyNjA=",
+    "name": "Keep1st",
+    "category": "E-Commerce & Marketing",
+    "url": "https://keep1st.com/",
+    "description": "ระบบประมูลอันดับ Ranking ให้ลงโปรโมทเว็บไซต์ของตัวเองได้",
+    "tags": [
+      "Advertising",
+      "Ranking",
+      "Auction"
+    ]
+  },
+  {
+    "id": "mkt-044",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQzNDY3NTgxMDMyOTE=",
+    "name": "GiffDee",
+    "category": "E-Commerce & Marketing",
+    "url": "https://www.giffdee.com/",
+    "description": "เว็บที่สร้างเสร็จภายใน 2 วัน โดยผู้พัฒนาทำหน้าที่แค่จดโดเมน ส่วนรูปและระบบทั้งหมด AI ทำให้",
+    "tags": [
+      "Web",
+      "AI Built"
+    ]
+  },
+  {
+    "id": "mkt-045",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQzOTU5MjgwOTgzNzQ=",
+    "name": "Loopika AI",
+    "category": "E-Commerce & Marketing",
+    "url": "https://loopika.ai/th",
+    "description": "All-in-one platform การตลาดและการขาย รวมแชททุกช่องทาง ตั้งแต่สร้าง Content จนปิดการขาย จัดการ Ads, Social Listening, Sale Page, จับ Order/Booking/Lead จากแชทเข้า CRM พร้อม Auto Reply และ Auto DM",
+    "tags": [
+      "Marketing",
+      "CRM",
+      "Automation",
+      "Omnichannel"
+    ]
+  },
+  {
+    "id": "mkt-046",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQ0MTk1NTgwOTYwMTE=",
+    "name": "Florist A TH",
+    "category": "E-Commerce & Marketing",
+    "url": "https://www.floweristath.com",
+    "description": "เว็บร้านดอกไม้ เพิ่งทำเวอร์ชันมือถือเสร็จ กำลังทำเวอร์ชันเดสก์ท็อป",
+    "tags": [
+      "E-Commerce",
+      "Flowers"
+    ]
+  },
+  {
+    "id": "mkt-047",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQ0MjA1MDE0MjkyNTA=",
+    "name": "หิ้วด้วย (Hiw Duay)",
+    "category": "E-Commerce & Marketing",
+    "url": "https://hiwduay.site/",
+    "description": "LINE Bot สำหรับให้เพื่อนฝากหิ้วของ เจ้าของออเดอร์กรอกเอง ไม่ต้องนั่งสรุปเอง เปิดบิลในไลน์กลุ่มได้เลย",
+    "tags": [
+      "LINE Bot",
+      "Group Order",
+      "Commerce"
+    ]
+  },
+  {
+    "id": "mkt-048",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQ0NDI3MDE0MjcwMzA=",
+    "name": "Thai EV Cars",
+    "category": "E-Commerce & Marketing",
+    "url": "https://thaievcars.com",
+    "description": "เว็บเปรียบเทียบรถยนต์ไฟฟ้าในประเทศไทย",
+    "tags": [
+      "EV",
+      "Comparison",
+      "Automotive"
+    ]
+  },
+  {
+    "id": "mkt-049",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQ0NjIzNzE0MjUwNjM=",
+    "name": "Sticga",
+    "category": "E-Commerce & Marketing",
+    "url": "https://www.sticga.com",
+    "description": "เว็บที่ผู้พัฒนาระบุว่าทำจนไม่ได้นอนเพราะ Claude",
+    "tags": [
+      "Web",
+      "E-Commerce"
+    ]
+  },
+  {
+    "id": "mkt-050",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQ1MDQwMjQ3NTQyMzE=",
+    "name": "Mapii",
+    "category": "E-Commerce & Marketing",
+    "url": "https://mapii.cloud",
+    "description": "แอปตัวช่วยด้านการตลาดที่ทำให้ลูกค้าใกล้คุณเจอร้านคุณก่อนใครบน Google Maps",
+    "tags": [
+      "Local SEO",
+      "Google Maps",
+      "Marketing"
     ]
   },
   {
@@ -2273,6 +2715,138 @@
     "tags": [
       "iOS",
       "Expense Tracking"
+    ]
+  },
+  {
+    "id": "fin-046",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQyNzAwMjgxMTA5NjQ=",
+    "name": "My Money Toolkit",
+    "category": "Finance & Wealth",
+    "url": "https://mymoneytoolkit.app/",
+    "description": "เว็บแอปรวมเครื่องมือด้านการเงินกว่า 10 ตัว ทั้งวางแผนเกษียณ ลงทุน กองทุน และวางแผนงบประมาณ",
+    "tags": [
+      "Retirement",
+      "Investing",
+      "Budgeting",
+      "Tools"
+    ]
+  },
+  {
+    "id": "fin-047",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQzMjMwNjgxMDU2NjA=",
+    "name": "Daddy Investor",
+    "category": "Finance & Wealth",
+    "url": "https://daddyinvestor.net",
+    "description": "แอปให้ความรู้เรื่องหุ้นสหรัฐฯ เป็นภาษาไทยล้วน สมัครฟรี มีผู้สมัครกว่า 4,500 คนใน 2 เดือน",
+    "tags": [
+      "Investing",
+      "US Stocks",
+      "Education",
+      "Thai"
+    ]
+  },
+  {
+    "id": "fin-048",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQzNDcwMDQ3Njk5MzM=",
+    "name": "Thai Tax Calculator",
+    "category": "Finance & Wealth",
+    "url": "https://akiraautothailand.gumroad.com/l/thai-tax-calculator",
+    "description": "ไฟล์ HTML คำนวณภาษีพร้อม Visualize ให้เห็นว่าภาษีตกขั้นไหน และถ้าซื้อค่าลดหย่อนจะได้เงินคืนเท่าไร",
+    "tags": [
+      "Tax",
+      "Calculator",
+      "Visualization"
+    ]
+  },
+  {
+    "id": "fin-049",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQzNDg0NDE0MzY0NTY=",
+    "name": "ManyTrader",
+    "category": "Finance & Wealth",
+    "url": "https://www.manytrader.shop",
+    "description": "เว็บขายบริการอินดิเคเตอร์บน TradingView ยอดขายหลักล้าน ให้บริการทั่วโลก",
+    "tags": [
+      "Trading",
+      "TradingView",
+      "E-Commerce"
+    ]
+  },
+  {
+    "id": "fin-050",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQzNDk4MzgxMDI5ODM=",
+    "name": "StockWave",
+    "category": "Finance & Wealth",
+    "url": "https://stockwavev1.netlify.app",
+    "description": "เว็บดูแนวรับแนวต้านหุ้นพร้อมข่าว",
+    "tags": [
+      "Stocks",
+      "Technical Analysis",
+      "News"
+    ]
+  },
+  {
+    "id": "fin-051",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQzNzQwOTE0MzM4OTE=",
+    "name": "DollarMatter Pro",
+    "category": "Finance & Wealth",
+    "url": "https://dollarmatterpro.vercel.app/",
+    "description": "Journey Trade พร้อม Sky Tower สำหรับ Monitoring ในสไตล์ Pixel 8-bit และศูนย์การเรียนรู้ในตัว",
+    "tags": [
+      "Trading",
+      "Monitoring",
+      "Education"
+    ]
+  },
+  {
+    "id": "fin-052",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQzOTg1ODgwOTgxMDg=",
+    "name": "JaiDee.fun (จ่ายดี)",
+    "category": "Finance & Wealth",
+    "url": "https://www.jaidee.fun",
+    "description": "เว็บช่วยหารค่าข้าว พร้อมสร้าง QR พร้อมเพย์และติดตามยอด",
+    "tags": [
+      "Bill Split",
+      "PromptPay",
+      "QR"
+    ]
+  },
+  {
+    "id": "fin-053",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQ0MzAyOTQ3NjE2MDQ=",
+    "name": "ABacktest",
+    "category": "Finance & Wealth",
+    "url": "https://abacktest.com/",
+    "description": "เครื่องมือ Backtest กลยุทธ์การลงทุน",
+    "tags": [
+      "Backtest",
+      "Trading",
+      "Web"
+    ]
+  },
+  {
+    "id": "fin-054",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQ0Nzc3MzQ3NTY4NjA=",
+    "name": "Capitribe",
+    "category": "Finance & Wealth",
+    "url": "https://capitribe.online/",
+    "description": "เว็บคอมมูนิตี้การลงทุน โพสต์และคอมเมนต์ แท็กสินทรัพย์ที่สนใจ มีพอร์ตจำลองซื้อขายหุ้น ทองคำ น้ำมัน และคริปโต ดูข่าวตลาดทุน และมี AI ให้ถามได้",
+    "tags": [
+      "Investing",
+      "Community",
+      "Paper Trading",
+      "AI"
+    ]
+  },
+  {
+    "id": "fin-055",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQ0OTQyNjE0MjE4NzQ=",
+    "name": "Mix Pocket",
+    "category": "Finance & Wealth",
+    "url": "https://mix-pocket.netlify.app/",
+    "description": "แอปจดบันทึกรายรับรายจ่าย พร้อมเครื่องมือส่งออกและนำเข้าข้อมูลจาก ID เดิม",
+    "tags": [
+      "Expense Tracking",
+      "Import/Export"
     ]
   },
   {
@@ -2876,6 +3450,172 @@
     ]
   },
   {
+    "id": "game-048",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQyNTcyNjE0NDU1NzQ=",
+    "name": "Splendor-style AI Board Game",
+    "category": "Games & Entertainment",
+    "url": "https://gemini-mentor-play.lovable.app/",
+    "description": "เว็บแอปบอร์ดเกมแนว Splendor เล่นกับ AI และปรับ Parameter ของ AI ได้",
+    "tags": [
+      "Board Game",
+      "AI",
+      "Web"
+    ]
+  },
+  {
+    "id": "game-049",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQyODUwMDQ3NzYxMzM=",
+    "name": "Kotan Simulator",
+    "category": "Games & Entertainment",
+    "url": "https://baboonbotdev.github.io/kotansimulator/",
+    "description": "เกมอินดี้จำลองชีวิตขอทาน เล่นง่าย ไม่ต้องคิดมาก",
+    "tags": [
+      "Indie Game",
+      "Simulator",
+      "Web"
+    ]
+  },
+  {
+    "id": "game-050",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQyOTQ1NzgxMDg1MDk=",
+    "name": "FIFACraft",
+    "category": "Games & Entertainment",
+    "url": "https://boyyoknatee66-eng.github.io/fifacraft/",
+    "description": "เกมที่พัฒนาโดยเด็กชั้น ป.3 อายุ 9 ขวบ",
+    "tags": [
+      "Web Game",
+      "Kids",
+      "Football"
+    ]
+  },
+  {
+    "id": "game-051",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQzMjA4MTgxMDU4ODU=",
+    "name": "Vroxx",
+    "category": "Games & Entertainment",
+    "url": "https://vroxx.vercel.app/",
+    "description": "เว็บเกมให้ทดลองเล่น",
+    "tags": [
+      "Web Game"
+    ]
+  },
+  {
+    "id": "game-052",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQzMzE2MjgxMDQ4MDQ=",
+    "name": "Bluxky Quest",
+    "category": "Games & Entertainment",
+    "url": "https://bluxkyquest.com/",
+    "description": "เว็บรวมผลงานเนื้อเรื่องที่เขียนเองทั้งหนังสือการ์ตูน เกม และอาร์ตทอย พร้อมเกมแนว Cozy บนเว็บที่เล่นฟรี",
+    "tags": [
+      "Indie",
+      "Cozy Game",
+      "Portfolio"
+    ]
+  },
+  {
+    "id": "game-053",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQzOTg1NzgwOTgxMDk=",
+    "name": "สวนของฉัน (Suan Khong Chan)",
+    "category": "Games & Entertainment",
+    "url": "https://suan-khong-chan-indie-game.vercel.app/",
+    "description": "เกมอินดี้ปลูกผักที่งอกออกไปเรื่อยจนมีดันเจี้ยน ระบบพลัง แมพเพิ่มเติม และโมเดล 3D",
+    "tags": [
+      "Indie Game",
+      "Farming",
+      "3D"
+    ]
+  },
+  {
+    "id": "game-054",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQzODU3NTE0MzI3MjU=",
+    "name": "Ramakien Card Duel",
+    "category": "Games & Entertainment",
+    "url": "https://play.lofi-hz.online/",
+    "description": "เกมการ์ด Duel ธีมรามเกียรติ์ เล่นได้ทั้งกับบอทและกับเพื่อน อยู่ในช่วงพัฒนา Demo",
+    "tags": [
+      "Card Game",
+      "Thai Mythology",
+      "Multiplayer"
+    ]
+  },
+  {
+    "id": "game-055",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQ0MDEwNzgwOTc4NTk=",
+    "name": "MooDoo",
+    "category": "Games & Entertainment",
+    "url": "https://moodoo.io/",
+    "description": "แอปดูดวงแจกฟรีสำหรับสายมู",
+    "tags": [
+      "Astrology",
+      "Free",
+      "Web"
+    ]
+  },
+  {
+    "id": "game-056",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQ0MjQzMTgwOTU1MzU=",
+    "name": "Anime OS",
+    "category": "Games & Entertainment",
+    "url": "https://www.anime-os.com/new-anime",
+    "description": "เว็บรวมข้อมูลการฉายอนิเมะลิขสิทธิ์ในประเทศไทย",
+    "tags": [
+      "Anime",
+      "Database",
+      "Thai"
+    ]
+  },
+  {
+    "id": "game-057",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQ0MjU3MDQ3NjIwNjM=",
+    "name": "FMTH Football Manager",
+    "category": "Games & Entertainment",
+    "url": "http://fmth.online",
+    "description": "เกมผู้จัดการทีมฟุตบอล จัดทีม ซื้อขายนักเตะ ฝึกซ้อม ตั้งแทคติก แข่งพร้อมกันเวลา 16.00 น. เปิดแล้ว 17 ลีกและมีผู้เล่นเกือบครบทุกลีก",
+    "tags": [
+      "Football Manager",
+      "Multiplayer",
+      "Online"
+    ]
+  },
+  {
+    "id": "game-058",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQ0Mjc4OTE0Mjg1MTE=",
+    "name": "Anime Hand & Face Tracking",
+    "category": "Games & Entertainment",
+    "url": "https://coruscating-souffle-56144f.netlify.app",
+    "description": "เว็บ Tracking มือและใบหน้าเพื่อเล่นท่าตัวละครในอนิเมะ เช่น กระสุนวงจักร อาคาสะ และโกโจ",
+    "tags": [
+      "Computer Vision",
+      "Anime",
+      "Web"
+    ]
+  },
+  {
+    "id": "game-059",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQ0NDA5OTgwOTM4Njc=",
+    "name": "Surasundari",
+    "category": "Games & Entertainment",
+    "url": "https://surasundari.onrender.com/",
+    "description": "เว็บแอปดูดวงฟรีพร้อมระบบสมาชิกพรีเมียมรายเดือน อยู่ในช่วงเริ่มต้นพัฒนา",
+    "tags": [
+      "Astrology",
+      "Subscription",
+      "Web"
+    ]
+  },
+  {
+    "id": "game-060",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQ0OTkxMjE0MjEzODg=",
+    "name": "Zodipact",
+    "category": "Games & Entertainment",
+    "url": "https://zodipact.com",
+    "description": "เว็บดูดวงตามราศี (ผู้พัฒนาแชร์เฉพาะลิงก์)",
+    "tags": [
+      "Astrology",
+      "Web"
+    ]
+  },
+  {
     "id": "dev-001",
     "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjMzNTAxMDE1MzYyOTA=",
     "name": "Gnome Widget Center",
@@ -3155,6 +3895,33 @@
       "Productivity",
       "Eisenhower",
       "Open Source"
+    ]
+  },
+  {
+    "id": "dev-022",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQzNDk0MTE0MzYzNTk=",
+    "name": "SentinelX",
+    "category": "Hardware & Developer Tools",
+    "url": "",
+    "description": "API Security Gateway พร้อม Mobile SOC รวม WAF, Rate Limiting, Threat Detection เข้าด้วยกัน Benchmark ล่าสุด 6,527 RPS ที่ 0% Error และ P95 14ms อยู่ระหว่างทดสอบแบบ Long-running",
+    "tags": [
+      "Security",
+      "WAF",
+      "API Gateway",
+      "SOC"
+    ]
+  },
+  {
+    "id": "dev-023",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQ0MTgzNDE0Mjk0NjY=",
+    "name": "Pixels Studio Solar & CCTV Calculator",
+    "category": "Hardware & Developer Tools",
+    "url": "https://pixels-studiodemo.netlify.app/",
+    "description": "Web App คำนวณการใช้ไฟจาก Solar Cell ออกแบบแปลน และคำนวณการใช้ Memory ของ CCTV",
+    "tags": [
+      "Solar",
+      "CCTV",
+      "Calculator"
     ]
   },
   {
@@ -3630,6 +4397,204 @@
       "Computer Vision",
       "E-Commerce",
       "WIP"
+    ]
+  },
+  {
+    "id": "pub-037",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQzMDExNDQ3NzQ1MTk=",
+    "name": "MeDeeThai",
+    "category": "Health & Public Safety",
+    "url": "https://medeethai.com/",
+    "description": "เว็บประเมินสุขภาพตนเองจากผลตรวจเลือด ใช้ฟรี มีระบบ Scoring แบบที่แพทย์ใช้",
+    "tags": [
+      "Health",
+      "Blood Test",
+      "Free"
+    ]
+  },
+  {
+    "id": "pub-038",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQyNTc1NDE0NDU1NDY=",
+    "name": "CourtBuddy TH",
+    "category": "Health & Public Safety",
+    "url": "https://www.courtbuddy-th.com/",
+    "description": "เว็บหาก๊วนเทนนิสและ Pickleball",
+    "tags": [
+      "Sports",
+      "Community",
+      "Booking"
+    ]
+  },
+  {
+    "id": "pub-039",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQzMDE1NTQ3NzQ0Nzg=",
+    "name": "BeBetter Education",
+    "category": "Health & Public Safety",
+    "url": "https://bebetter.education/",
+    "description": "ระบบเรียนรู้และฝึกโจทย์วิทยาศาสตร์ที่วิเคราะห์จุดแข็ง จุดที่ควรพัฒนา และวางแผนการเรียนรู้เฉพาะบุคคล สำหรับเด็กประถมปลายและเตรียมสอบเข้า ม.1",
+    "tags": [
+      "Education",
+      "Science",
+      "Personalized"
+    ]
+  },
+  {
+    "id": "pub-040",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQzMDQzODQ3NzQxOTU=",
+    "name": "TestD",
+    "category": "Health & Public Safety",
+    "url": "https://testd.website/th",
+    "description": "แอปสุขภาพที่ใช้ Gamification ทำให้การตรวจ HIV สุขภาพจิต และการใช้สารเป็นเรื่องเข้าถึงง่าย มีบริการส่งชุดตรวจ HIV ถึงบ้านฟรีพร้อม Tracking ส่งไปแล้วกว่า 15,000 ชุดใน 77 จังหวัดภายใน 6 เดือน นำเสนอในเวที AIDS 2026 สนับสนุนโดย Elton John AIDS Foundation ดำเนินงานโดย Swing Thailand",
+    "tags": [
+      "Public Health",
+      "HIV",
+      "Gamification",
+      "Social Impact"
+    ]
+  },
+  {
+    "id": "pub-041",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQzMDY1MjgxMDczMTQ=",
+    "name": "Quizmon",
+    "category": "Health & Public Safety",
+    "url": "https://quizmon.xyz",
+    "description": "แอปให้เด็กฝึกทำข้อสอบเพื่อสร้างวินัย ทำทุกวันแล้ว Qmon จะโตขึ้น แยกตามสายวิชา สะสมได้กว่า 30 ตัว มีระบบลง Raid ผจญภัยและ Leaderboard",
+    "tags": [
+      "Education",
+      "Gamification",
+      "Kids"
+    ]
+  },
+  {
+    "id": "pub-042",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQzMzk2NTQ3NzA2Njg=",
+    "name": "Push Clock Awaken",
+    "category": "Health & Public Safety",
+    "url": "https://push-clock-awaken.base44.app/",
+    "description": "เว็บแอปออกกำลังกายที่เปิดกล้องให้ AI ตรวจจับว่าทำจริงหรือไม่ ถ้าไม่ทำจะมีเสียงปลุกดังจนกว่าจะออกกำลังกายเสร็จ",
+    "tags": [
+      "Fitness",
+      "Computer Vision",
+      "Alarm"
+    ]
+  },
+  {
+    "id": "pub-043",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQzNjUyMzQ3NjgxMTA=",
+    "name": "MeowMap",
+    "category": "Health & Public Safety",
+    "url": "https://meowmap-app.web.app/",
+    "description": "ชุมชนคนรักแมว โพสต์รูปและเรื่องราวแมวจร ปักหมุดตำแหน่งบนแผนที่ ประกาศหาบ้านให้น้อง และขอความช่วยเหลือจากชุมชน",
+    "tags": [
+      "Cats",
+      "Community",
+      "Map",
+      "Rescue"
+    ]
+  },
+  {
+    "id": "pub-045",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQzNzk3OTE0MzMzMjE=",
+    "name": "SoCup A-Level",
+    "category": "Health & Public Safety",
+    "url": "https://socup.grits.online/",
+    "description": "เว็บจำลองข้อสอบ A-Level",
+    "tags": [
+      "Exam Prep",
+      "Education"
+    ]
+  },
+  {
+    "id": "pub-046",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQ0MDMzNTgwOTc2MzE=",
+    "name": "Garmin Burnout Detector & Recovery Timeline",
+    "category": "Health & Public Safety",
+    "url": "https://shorturl.asia/I4kx8",
+    "description": "แอปบนนาฬิกา Garmin ผ่าน ConnectIQ โหลดฟรี แก้ปัญหาตัวเลขตัวชี้วัดเยอะเกินจนไม่รู้จะใช้อย่างไร Burnout Detector วัดค่าความล้าของร่างกาย และ RecoveryTimeline บอกว่าฟื้นตัวไปเท่าไรพร้อมคำแนะนำ ทำงาน Offline 100% ไม่ใช้ API",
+    "tags": [
+      "Garmin",
+      "Wearable",
+      "Health",
+      "Offline"
+    ]
+  },
+  {
+    "id": "pub-047",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQ0MTAzODgwOTY5Mjg=",
+    "name": "DeepBlue",
+    "category": "Health & Public Safety",
+    "url": "https://deepblue.ntweb.app/",
+    "description": "แอปเรียนรู้โลกใต้ท้องทะเลสำหรับเด็ก เป็นเกมขับเรือดำน้ำพร้อมภาพสมจริงและข้อมูลสัตว์ทะเล เล่นผ่านเว็บได้เลย",
+    "tags": [
+      "Education",
+      "Kids",
+      "Ocean",
+      "Web Game"
+    ]
+  },
+  {
+    "id": "pub-048",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQ0MTQ4NDgwOTY0ODI=",
+    "name": "LevelUp by MeLiveCode",
+    "category": "Health & Public Safety",
+    "url": "https://levelup.melivecode.com/",
+    "description": "Web App จัดการเรียนการสอน แชร์เนื้อหา ส่งงาน ทำแบบฝึกหัด และออกใบประกาศ",
+    "tags": [
+      "Education",
+      "LMS",
+      "Teaching"
+    ]
+  },
+  {
+    "id": "pub-049",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQ0MjI1ODE0MjkwNDI=",
+    "name": "MyClover",
+    "category": "Health & Public Safety",
+    "url": "https://www.myclover.com",
+    "description": "คอร์สเรียน AI ใส่ซอส ว่าด้วยหัวใจสำคัญของการสร้างงานด้วย AI พร้อมเกมให้เล่นเพื่อเข้าใจบทเรียน",
+    "tags": [
+      "Education",
+      "AI",
+      "Course"
+    ]
+  },
+  {
+    "id": "pub-050",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQ0NDI2MjgwOTM3MDQ=",
+    "name": "ISP Athlete Platform",
+    "category": "Health & Public Safety",
+    "url": "https://isp-platform-chi.vercel.app",
+    "description": "แอปจัดเก็บข้อมูลนักกีฬาเพื่อติดตามผลและวางแผนการพัฒนา",
+    "tags": [
+      "Sports",
+      "Athlete Data",
+      "Tracking"
+    ]
+  },
+  {
+    "id": "pub-051",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQ0NzY4ODQ3NTY5NDU=",
+    "name": "Naphai Badminton Scorer",
+    "category": "Health & Public Safety",
+    "url": "https://naphai.netlify.app/",
+    "description": "เว็บนับแต้มแบดมินตันพร้อมบอกว่าต้องยืนตำแหน่งไหน",
+    "tags": [
+      "Badminton",
+      "Scoring",
+      "Sports"
+    ]
+  },
+  {
+    "id": "pub-052",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQ0OTAyNjE0MjIyNzQ=",
+    "name": "JaiFlow",
+    "category": "Health & Public Safety",
+    "url": "https://www.jaiflow.app/",
+    "description": "แอปติดตามอารมณ์ที่มีระบบเกมช่วยให้บันทึกอารมณ์ทุกวันสนุกขึ้น ทั้งสร้างเกาะและเก็บสตรีค",
+    "tags": [
+      "Mental Health",
+      "Gamification",
+      "Mood Tracking"
     ]
   },
   {
@@ -4430,6 +5395,332 @@
     ]
   },
   {
+    "id": "life-062",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQyNjE0NjE0NDUxNTQ=",
+    "name": "Vibe",
+    "category": "Productivity & Lifestyle",
+    "url": "https://vibe.toryod.co",
+    "description": "เว็บแอปหาเพื่อนทำกิจกรรมใกล้ตัวบน Live Map มีระบบ Vibe Card ให้สแกน QR ถ่ายรูปคู่เพื่อปลดล็อกการ์ดความทรงจำเมื่อเจอกันจริง",
+    "tags": [
+      "Social",
+      "Live Map",
+      "QR"
+    ]
+  },
+  {
+    "id": "life-063",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQyNjk5MjQ3Nzc2NDE=",
+    "name": "Off-Screen",
+    "category": "Productivity & Lifestyle",
+    "url": "https://off-screen-topaz.vercel.app",
+    "description": "เว็บรวมข่าวสำคัญที่ยังไม่จบ พร้อมอัปเดตต่อเนื่อง",
+    "tags": [
+      "News",
+      "Aggregator"
+    ]
+  },
+  {
+    "id": "life-064",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQzMTg3MDE0Mzk0MzA=",
+    "name": "The World Ready",
+    "category": "Productivity & Lifestyle",
+    "url": "https://www.theworldready.com/",
+    "description": "เว็บไซต์ The World Ready (ผู้พัฒนาแชร์เฉพาะลิงก์)",
+    "tags": [
+      "Web"
+    ]
+  },
+  {
+    "id": "life-065",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQzMTk3MjQ3NzI2NjE=",
+    "name": "Nudlen Directory",
+    "category": "Productivity & Lifestyle",
+    "url": "https://directory.nudlen.com/",
+    "description": "ไดเรกทอรีรวมลิงก์ผลงานที่สมาชิกในกลุ่มสร้างด้วย Claude",
+    "tags": [
+      "Directory",
+      "Community",
+      "Showcase"
+    ]
+  },
+  {
+    "id": "life-066",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQzMjkzMzQ3NzE3MDA=",
+    "name": "Tiew Easy (เที่ยวง่ายดี)",
+    "category": "Productivity & Lifestyle",
+    "url": "https://tieweasy.lovable.app/",
+    "description": "เว็บรวบรวมข้อมูลที่พัก โรงแรม และโปรโมชันตั๋วเครื่องบินในไม่กี่คลิก",
+    "tags": [
+      "Travel",
+      "Hotels",
+      "Deals"
+    ]
+  },
+  {
+    "id": "life-067",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQzMzE4OTQ3NzE0NDQ=",
+    "name": "NIDA MPA/MPPM Schedule",
+    "category": "Productivity & Lifestyle",
+    "url": "https://nida69-mpa-mppm-schedule.netlify.app",
+    "description": "เว็บตารางเรียนปริญญาโท เรียบง่ายตรงไปตรงมา",
+    "tags": [
+      "Schedule",
+      "Education",
+      "Web"
+    ]
+  },
+  {
+    "id": "life-068",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQzMzY5OTE0Mzc2MDE=",
+    "name": "FitMyBike",
+    "category": "Productivity & Lifestyle",
+    "url": "https://fitmybike.online/",
+    "description": "เว็บช่วยเลือกเฟรมจักรยานว่าเหมาะกับสรีระเราแค่ไหน เลือกยี่ห้อและรุ่น ใส่ระยะร่างกาย แล้วเว็บจะแสดงภาพเรากำลังปั่นคันนั้นพร้อมคำแนะนำระยะการก้ม-เงย เปรียบเทียบได้หลายคัน",
+    "tags": [
+      "Cycling",
+      "Fitting",
+      "Calculator"
+    ]
+  },
+  {
+    "id": "life-069",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQzNDQzNjE0MzY4NjQ=",
+    "name": "SimpleTool",
+    "category": "Productivity & Lifestyle",
+    "url": "https://simpletool.co",
+    "description": "เว็บรวมเครื่องมือสำหรับไฟล์ Excel, PDF, วิดีโอ, เสียง และรูป ที่รันในเบราว์เซอร์ 100% ไม่ส่งไฟล์ขึ้นเซิร์ฟเวอร์ เช่น Vocal Remover, Password Remover, Blur Faces, Video to GIF, Email Extractor, Timezone Converter และ Remote Timer",
+    "tags": [
+      "Tools",
+      "Privacy",
+      "Browser",
+      "Free"
+    ]
+  },
+  {
+    "id": "life-070",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQzNDgyNDE0MzY0NzY=",
+    "name": "Lotus Vibes",
+    "category": "Productivity & Lifestyle",
+    "url": "https://lotus-vibes.netlify.app",
+    "description": "เว็บจัดช่อดอกบัว โปรเจกต์แรกของผู้พัฒนา มีผู้ใช้งานกว่า 10,000 คนตั้งแต่สัปดาห์แรก",
+    "tags": [
+      "Web",
+      "Culture",
+      "Creative"
+    ]
+  },
+  {
+    "id": "life-071",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQzNTg1ODE0MzU0NDI=",
+    "name": "EZFile",
+    "category": "Productivity & Lifestyle",
+    "url": "https://ezfile.pro",
+    "description": "เว็บแชร์ไฟล์ที่เน้นความง่ายที่สุด กรอกเลขห้องได้ทุกรูปแบบ มีแชทภายในห้อง มีโปรแกรมเชื่อม API เพื่ออัปโหลดอัตโนมัติ ห้องอยู่ได้ 48 ชั่วโมงและปิดเองเมื่อไม่ใช้งาน 1 ชั่วโมง ไม่เก็บไฟล์ใด ๆ",
+    "tags": [
+      "File Sharing",
+      "Privacy",
+      "API"
+    ]
+  },
+  {
+    "id": "life-072",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQzNjQ0NDQ3NjgxODk=",
+    "name": "Expiva",
+    "category": "Productivity & Lifestyle",
+    "url": "https://expiva.lhumcom.com/",
+    "description": "ระบบแจ้งเตือนวันหมดอายุสินค้าอุปโภคบริโภคผ่านอีเมลทุก 8 โมงเช้า ใช้งานง่ายเพียงถ่ายรูปสินค้าและวันหมดอายุแล้วระบบ OCR ให้เอง (Beta)",
+    "tags": [
+      "OCR",
+      "Reminder",
+      "Household"
+    ]
+  },
+  {
+    "id": "life-073",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQzNjY4MzgxMDEyODM=",
+    "name": "พิมพ์ไทย101+",
+    "category": "Productivity & Lifestyle",
+    "url": "https://www.pimthai101.com/",
+    "description": "เว็บฝึกพิมพ์ดีดทั้งภาษาไทยและอังกฤษ แสดงแป้นพิมพ์เสมือนช่วยดูตำแหน่งนิ้ว ฝึกความเร็วและความแม่นยำ มีโหมดผีอาฆาตพิมพ์ตามคำบอกเล่นพร้อมกันได้ 4 คน",
+    "tags": [
+      "Typing",
+      "Education",
+      "Thai",
+      "Free"
+    ]
+  },
+  {
+    "id": "life-074",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQzNjkxMjE0MzQzODg=",
+    "name": "TimeMap History",
+    "category": "Productivity & Lifestyle",
+    "url": "https://timemaphistory.netlify.app/",
+    "description": "ไทม์แมปเปรียบเทียบประวัติศาสตร์ไทยกับประวัติศาสตร์โลกในเหตุการณ์สำคัญ",
+    "tags": [
+      "History",
+      "Timeline",
+      "Education"
+    ]
+  },
+  {
+    "id": "life-075",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQzNzY3MDgxMDAyOTY=",
+    "name": "อุ่งเกร็บ (Oong Greb)",
+    "category": "Productivity & Lifestyle",
+    "url": "https://oong-greb.com/",
+    "description": "ระบบจัดการตู้เย็นทั้งบ้านร่วมกันแบบเรียลไทม์ ทำงานอยู่ใน LINE ที่ทุกคนใช้อยู่แล้ว ไม่ต้องโหลดแอปใหม่ แก้ปัญหาซื้อของมาตุนแล้วลืมจนหมดอายุ",
+    "tags": [
+      "LINE",
+      "Household",
+      "Realtime"
+    ]
+  },
+  {
+    "id": "life-076",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQzODQ1MzQ3NjYxODA=",
+    "name": "ArnPDF (อ่าน PDF)",
+    "category": "Productivity & Lifestyle",
+    "url": "https://www.arnpdf.com",
+    "description": "โปรแกรม PDF Reader, PDF Editor และ Ebook Reader รองรับ comment, watermark, insert, rotate, crop, เข้ารหัส/ถอดรหัส, Redact, Digital Signature โหมดอ่านการ์ตูนพร้อมแยกหน้าสแกนคู่ และ AI ช่วยสรุปเอกสาร",
+    "tags": [
+      "PDF",
+      "Reader",
+      "Editor",
+      "Desktop"
+    ]
+  },
+  {
+    "id": "life-077",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQzOTgwNTE0MzE0OTU=",
+    "name": "Thai Toolbox",
+    "category": "Productivity & Lifestyle",
+    "url": "https://thaitoolbox.com",
+    "description": "เว็บรวมเครื่องมือหลากหลายไว้ในที่เดียว",
+    "tags": [
+      "Tools",
+      "Web"
+    ]
+  },
+  {
+    "id": "life-078",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQ0MTU3MjgwOTYzOTQ=",
+    "name": "The Ghost Maps",
+    "category": "Productivity & Lifestyle",
+    "url": "https://theghostmaps.com",
+    "description": "เว็บปักหมุดสถานที่ที่เปลี่ยนเรื่องเล่าสยองขวัญให้เป็นธุรกิจท่องเที่ยวแนว Dark Tourism เปิดให้ผู้ใช้สร้างรายได้จากการบริหารหมุดและปล่อยเช่าพื้นที่จัดกิจกรรม",
+    "tags": [
+      "Dark Tourism",
+      "Map",
+      "Marketplace"
+    ]
+  },
+  {
+    "id": "life-079",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQ0MjQ0MTgwOTU1MjU=",
+    "name": "Uno Poszee",
+    "category": "Productivity & Lifestyle",
+    "url": "https://uno.poszee.com/",
+    "description": "เกม Uno ออนไลน์ที่ทำขึ้นเพื่อช่วยให้ลูกห่างจาก iPad",
+    "tags": [
+      "Family",
+      "Game",
+      "Parenting"
+    ]
+  },
+  {
+    "id": "life-080",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQ0MjcwNjgwOTUyNjA=",
+    "name": "FileCub Office",
+    "category": "Productivity & Lifestyle",
+    "url": "https://software.thaiware.com/15169.html",
+    "description": "ชุดโปรแกรมสำนักงาน FileCub Office ดาวน์โหลดได้บน THAIWARE",
+    "tags": [
+      "Office",
+      "Desktop",
+      "Software"
+    ]
+  },
+  {
+    "id": "life-081",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQ0NTEwOTE0MjYxOTE=",
+    "name": "PowerPointBoy Maps",
+    "category": "Productivity & Lifestyle",
+    "url": "https://map.powerpointboy.com/",
+    "description": "เว็บโหลดกราฟิกแผนที่ ทั้งแผนที่โลกและประเทศไทยลึกถึงระดับตำบล ดาวน์โหลดเป็น PNG หรือ SVG แล้วนำไปแก้ไขต่อได้",
+    "tags": [
+      "Maps",
+      "Graphics",
+      "SVG",
+      "Free"
+    ]
+  },
+  {
+    "id": "life-082",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQ0NTcxMDQ3NTg5MjM=",
+    "name": "Hoksai",
+    "category": "Productivity & Lifestyle",
+    "url": "https://hoksai.online",
+    "description": "แอปฝึกกีตาร์ใช้งานฟรีผ่านเบราว์เซอร์ มีเมโทรนอม ตัวช่วยซ้อม และรวมคอร์ด สเกล คีย์ กับแนวเพลง",
+    "tags": [
+      "Guitar",
+      "Music",
+      "Free",
+      "Web"
+    ]
+  },
+  {
+    "id": "life-083",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQ0NjI5ODE0MjUwMDI=",
+    "name": "Con3D",
+    "category": "Productivity & Lifestyle",
+    "url": "https://con3d.netlify.app",
+    "description": "เว็บจำลองมุมมองเวทีคอนเสิร์ตก่อนซื้อตั๋ว ตัวอย่างเป็นสนามศุภชลาศัย",
+    "tags": [
+      "3D",
+      "Concert",
+      "Visualization"
+    ]
+  },
+  {
+    "id": "life-084",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQ0NzA1ODQ3NTc1NzU=",
+    "name": "PlayIn",
+    "category": "Productivity & Lifestyle",
+    "url": "https://getplayin.com/play/",
+    "description": "แอปหาเพื่อนทำกิจกรรมใกล้ตัว เริ่มจากแนวคิดว่าบางทีเราไม่ได้ไม่อยากออกไปทำอะไร แต่แค่หาคนที่อยากทำสิ่งเดียวกันในเวลาเดียวกันไม่เจอ (Beta)",
+    "tags": [
+      "Social",
+      "Activities",
+      "Beta"
+    ]
+  },
+  {
+    "id": "life-085",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQ0NzczMzQ3NTY5MDA=",
+    "name": "Taxi Meter Comparator",
+    "category": "Productivity & Lifestyle",
+    "url": "https://taxi.narongkorn.com",
+    "description": "เว็บเปรียบเทียบค่าโดยสารมิเตอร์แท็กซี่แบบเรียลไทม์ เพื่อดูว่ามิเตอร์คิดค่าโดยสารเร็วเกินจริงหรือไม่ โดยกดปุ่มเริ่มนับพร้อมกับที่คนขับกดมิเตอร์",
+    "tags": [
+      "Taxi",
+      "Consumer Protection",
+      "Web"
+    ]
+  },
+  {
+    "id": "life-086",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQ0Nzg3MTgwOTAwOTU=",
+    "name": "Narongkorn Mini Tools",
+    "category": "Productivity & Lifestyle",
+    "url": "https://bill.narongkorn.com",
+    "description": "ชุดเครื่องมือเล็ก ๆ ของผู้พัฒนา ทั้งฝากไว้ในใจ ฟักตวง และระบบบิล เปิดให้ติดตามเพิ่มเติมได้บนเว็บและ GitHub",
+    "tags": [
+      "Tools",
+      "Side Projects",
+      "Open Source"
+    ]
+  },
+  {
     "id": "ind-001",
     "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjMzMzAyODE1MzgyNzI=",
     "name": "Meysure",
@@ -4612,6 +5903,19 @@
       "Real Estate",
       "Auction",
       "Search"
+    ]
+  },
+  {
+    "id": "ind-015",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQzODMyMzgwOTk2NDM=",
+    "name": "Big Machine Crane Calculator",
+    "category": "Real Estate & Construction",
+    "url": "https://www.bigmachinetrading.com/program",
+    "description": "ระบบคำนวณว่าเครนคันไหนยกของชิ้นนี้ได้ โดยคำนวณจากสเปกรถเครน ให้วิศวกร โฟร์แมน และเจ้าของบ้านใช้ฟรี",
+    "tags": [
+      "Construction",
+      "Crane",
+      "Calculator"
     ]
   }
 ]
