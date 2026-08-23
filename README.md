@@ -1,26 +1,26 @@
 # 🚀 Awesome Claude Showcases (Thai Community)
 
-[![Total Projects](https://img.shields.io/badge/Total_Projects-336-blue.svg)](#) [![Cleaned Comments](https://img.shields.io/badge/Cleaned_Comments-425-success.svg)](#) [![Categories](https://img.shields.io/badge/Categories-9-orange.svg)](#) [![Last Updated](https://img.shields.io/badge/Data_Updated-2026--08--23-lightgrey.svg)](#) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Total Projects](https://img.shields.io/badge/Total_Projects-352-blue.svg)](#) [![Cleaned Comments](https://img.shields.io/badge/Cleaned_Comments-1144-success.svg)](#) [![Categories](https://img.shields.io/badge/Categories-9-orange.svg)](#) [![Last Updated](https://img.shields.io/badge/Data_Updated-2026--08--23-lightgrey.svg)](#) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 > รวมผลงาน เว็บไซต์ แอปพลิเคชัน บอท และระบบต่าง ๆ ที่สร้างขึ้นด้วย **Claude / AI** จากสมาชิกในชุมชน เพื่อเป็นไอเดียและกรณีศึกษาสำหรับการสร้างสรรค์ผลิตภัณฑ์จริง
 
-ข้อมูลทั้งหมดสกัดจากคอมเมนต์ **425** รายการ ได้เป็น **336** โปรเจกต์ (มีลิงก์ใช้งานจริง 260 รายการ) ผ่านสคริปต์ใน `scripts/` โดยตัดข้อมูลส่วนบุคคลออกตามข้อกำหนดใน [REQUIREMENTS.md](REQUIREMENTS.md)
+ข้อมูลทั้งหมดสกัดจากคอมเมนต์ **1144** รายการ ได้เป็น **352** โปรเจกต์ (มีลิงก์ใช้งานจริง 277 รายการ) ผ่านสคริปต์ใน `scripts/` โดยตัดข้อมูลส่วนบุคคลออกตามข้อกำหนดใน [REQUIREMENTS.md](REQUIREMENTS.md)
 
-🕒 **ข้อมูลล่าสุด (Data current as of):** 23 August 2026, 01:24 UTC — อ้างอิงจากคอมเมนต์ล่าสุดในชุดข้อมูล ไม่ใช่เวลาที่รันสคริปต์ จึงทำให้ผลลัพธ์ reproducible
+🕒 **ข้อมูลล่าสุด (Data current as of):** 23 August 2026, 02:42 UTC — อ้างอิงจากคอมเมนต์ล่าสุดในชุดข้อมูล ไม่ใช่เวลาที่รันสคริปต์ จึงทำให้ผลลัพธ์ reproducible
 
 ---
 
 ## 📑 สารบัญ (Table of Contents)
 
 1. [🤖 AI Tools & Agents](#-ai-tools--agents) — 31 โปรเจกต์
-2. [💼 Business & SaaS](#-business--saas) — 57 โปรเจกต์
-3. [💰 Finance & Wealth](#-finance--wealth) — 44 โปรเจกต์
-4. [🎮 Games & Entertainment](#-games--entertainment) — 46 โปรเจกต์
-5. [📱 Productivity & Lifestyle](#-productivity--lifestyle) — 56 โปรเจกต์
-6. [🏗️ Real Estate & Construction](#-real-estate--construction) — 13 โปรเจกต์
-7. [🛒 E-Commerce & Marketing](#-e-commerce--marketing) — 36 โปรเจกต์
-8. [🏥 Health & Public Safety](#-health--public-safety) — 33 โปรเจกต์
-9. [🛠️ Hardware & Developer Tools](#-hardware--developer-tools) — 20 โปรเจกต์
+2. [💼 Business & SaaS](#-business--saas) — 59 โปรเจกต์
+3. [💰 Finance & Wealth](#-finance--wealth) — 45 โปรเจกต์
+4. [🎮 Games & Entertainment](#-games--entertainment) — 47 โปรเจกต์
+5. [📱 Productivity & Lifestyle](#-productivity--lifestyle) — 61 โปรเจกต์
+6. [🏗️ Real Estate & Construction](#-real-estate--construction) — 14 โปรเจกต์
+7. [🛒 E-Commerce & Marketing](#-e-commerce--marketing) — 38 โปรเจกต์
+8. [🏥 Health & Public Safety](#-health--public-safety) — 36 โปรเจกต์
+9. [🛠️ Hardware & Developer Tools](#-hardware--developer-tools) — 21 โปรเจกต์
 10. [📊 สถิติโดยรวม (Statistics)](#-สถิติโดยรวม-statistics)
 11. [📂 โครงสร้างโปรเจกต์ (Project Structure)](#-โครงสร้างโปรเจกต์-project-structure)
 12. [🛠️ การใช้งานสคริปต์ (Scripts & Automation)](#-การใช้งานสคริปต์-scripts--automation)
@@ -51,7 +51,7 @@
 | **[พี่สิทธิ์ (Phisith)](https://phisith.com)** | AI ที่ปรึกษาสิทธิแรงงานไทย ช่วยคำนวณค่าชดเชย ประเมินคดีเลิกจ้างไม่เป็นธรรม เตรียมเอกสารและร่างคำฟ้องศาลแรงงานเบื้องต้น | `Legal Tech` `AI Advisor` `Labour Rights` |
 | **[Kobi AI](https://kobi-ai.com)** | แพลตฟอร์มระดมไอเดียและ Brainstorm ร่วมกับทีม ใช้เป็นสื่อการสอนได้ | `Brainstorming` `Collaboration` `Education` |
 | **[Woowey AI](https://woowey.ai)** | แพลตฟอร์ม AI ที่ผู้พัฒนาระบุว่าทำงานได้เทียบเท่าทีมงาน 20 คนขึ้นไป | `AI Agent` `Automation` `Productivity` |
-| **zframes (Claude Skill)** | Claude Skill ที่สร้างบอร์ดวิเคราะห์การลงทุนได้ในประโยคเดียว รวม Options Walls, Short Volume และ SEC Filings ติดตั้งผ่าน npx skills add zentryhq/zframes | `Claude Skill` `Investing` `Open Source` |
+| **[zframes (Claude Skill)](https://frames.zentry.com)** | Claude Skill ที่สร้างบอร์ดวิเคราะห์การลงทุนได้ในประโยคเดียว รวม Options Walls, Short Volume และ SEC Filings ติดตั้งผ่าน npx skills add zentryhq/zframes | `Claude Skill` `Investing` `Open Source` |
 | **[Vibe Coding Thailand](https://vibecodingthailand.com)** | เว็บไซต์บทความและคอมมูนิตี้สำหรับสาย Vibe Coding ในประเทศไทย | `Community` `Content` `Vibe Coding` |
 | **AI Camera Inspection** | ระบบตรวจสอบงานด้วยกล้องและ AI (ผู้พัฒนาระบุเพียงชื่อโปรเจกต์ในคอมเมนต์) | `Computer Vision` `Inspection` |
 | **Corporate Multi-Agent AI Teams** | ชุดทีม AI กว่า 10 ทีมสำหรับงาน Pre-Production และ Digital Transformation ในองค์กร พร้อมผู้ช่วยส่วนตัวที่บริหาร Asset ทั้งหมดแบบอัตโนมัติกว่า 80% รวมถึงทีมวิเคราะห์ข่าว Geopolitical และคาดการณ์ตลาด | `Multi-Agent` `Automation` `Enterprise` |
@@ -70,7 +70,7 @@
 
 ## 💼 Business & SaaS
 
-> 57 โปรเจกต์
+> 59 โปรเจกต์
 
 | ผลิตภัณฑ์ (Product) | รายละเอียด (Description) | Tags |
 | :--- | :--- | :--- |
@@ -100,7 +100,7 @@
 | **[13YTEX Multi-System Portfolio](https://13ytex.com/)** | ชุดโปรเจกต์ครบวงจร: RFID, ระบบหอพัก, อ่านป้ายทะเบียน, Smart Home, ร้านขายยา, POS, Warehouse RFID, Reward System, mini ERP, ตู้ขายน้ำอัตโนมัติ, CCTV Alert และ Sport Hub | `RFID` `IoT` `ERP` `POS` `Portfolio` |
 | **[CarCareJadhai (คาร์แคร์จัดให้)](https://carcarejadhai.com/pricing)** | ระบบบริหารจัดการร้านคาร์แคร์ ใช้ทั้งกับร้านของผู้พัฒนาเองและเปิดให้ตลาดใช้งาน | `Car Care` `SaaS` `Operations` |
 | **[TellMe](https://tellme.best/)** | เว็บแอปพร้อมระบบหลังบ้าน พัฒนาคนเดียวภายใน 2 สัปดาห์ | `Web App` `Solo Dev` |
-| **Sportnec** | แพลตฟอร์มบริหารวงการกีฬาครบวงจร จองสนาม หาก๊วน หาโค้ช ลงแข่งขัน และระบบบริหารสนามกีฬาในแอปเดียว | `Sports` `Booking` `Marketplace` |
+| **[Sportnec](https://www.sportnec.com)** | แพลตฟอร์มบริหารวงการกีฬาครบวงจร จองสนาม หาก๊วน หาโค้ช ลงแข่งขัน และระบบบริหารสนามกีฬาในแอปเดียว | `Sports` `Booking` `Marketplace` |
 | **Hotel Management Suite** | ระบบโรงแรมครบวงจร เชื่อม OTA Channel Manager, Payroll, Room Service, Reservation, ตม.30, เอกสารบัญชีและยื่นภาษี, Payment Gateway, รองรับหลายสาขา พร้อมหน้าเว็บจองและปรับราคาห้องตามฤดูกาล | `Hotel` `PMS` `Channel Manager` `Payments` |
 | **Auto Weekly Report Generator** | อัปโหลดไฟล์ Excel Daily Report แล้วระบบแยกและสรุปเป็น Weekly / Monthly Report อัตโนมัติ ลดเวลาทำรายงานจากค่อนวันเหลือ 1 นาที | `Reporting` `Excel` `Automation` |
 | **LINE Kanban Knowledge Hub** | Kanban Board สำหรับองค์กรที่มีบอท LINE ดักจับคอนเทนต์ในกลุ่มแล้วอัปขึ้นเซิร์ฟเวอร์และสร้าง Task อัตโนมัติ ค้นคืนไฟล์ต้นฉบับผ่าน Cloudflare Tunnel ใช้ SQLite + FTS5 + ChromaDB ร่วมกับ n8n | `Kanban` `LINE Bot` `RAG` `n8n` |
@@ -131,12 +131,14 @@
 | **[Mekong Sinsup](https://www.mekongsinsup.com)** | เว็บไซต์สำหรับธุรกิจเกษตรของผู้พัฒนา | `AgriTech` `Corporate Site` |
 | **[VelyPOS Pet](https://velysoft.com/VelyPOSPet)** | ระบบ POS แบบออฟไลน์สำหรับร้านขายอาหารสัตว์ | `POS` `Offline` `Pet Shop` |
 | **[24CarFix](https://new-app.24carfix.com/)** | แอปเรียกช่างซ่อมรถ 24 ชั่วโมง มีช่างในเครือข่าย 13,000 คนทั่วประเทศ และผู้ใช้กว่า 700,000 คน เป็นสตาร์ทอัพที่ตั้งเป้ายูนิคอร์น | `Startup` `Marketplace` `Automotive` `On-Demand` |
+| **[UniJob Connect](https://unijobconnect.com)** | แพลตฟอร์มจับคู่งานด้วย AI ที่เชื่อมบริษัทและ SME เข้ากับนักศึกษา เน้นงานสาย Hard Skills ที่ตรงกับสายการเรียน เกิดจาก Pain Point ของผู้พัฒนาที่อยากรับงานจริงตั้งแต่ยังเรียนอยู่ | `Jobs` `AI Matching` `Students` `Marketplace` |
+| **[PPPro](https://www.pppro.dev)** | บริการพัฒนาระบบให้ลูกค้า โดยผู้พัฒนาระบุว่ายึดผลกำไรของลูกค้าเป็นหลัก | `Services` `Development` |
 
 ---
 
 ## 💰 Finance & Wealth
 
-> 44 โปรเจกต์
+> 45 โปรเจกต์
 
 | ผลิตภัณฑ์ (Product) | รายละเอียด (Description) | Tags |
 | :--- | :--- | :--- |
@@ -184,12 +186,13 @@
 | **[Fast Tax Planner](https://fasttaxplanner-b6e6c.web.app/)** | โปรแกรมจัดการเรื่องเงินและภาษี อัปเดตกฎหมายถึงปัจจุบัน รวมค่าลดหย่อน Solar Cell และรองรับการเตรียมยื่นภาษีกลางปี | `Tax` `Planning` `Thailand` |
 | **[RubJai (รับจ่าย)](https://rubjai.web.app/)** | โปรแกรมบัญชีรับ-จ่ายสำหรับผู้มีเงินได้และธุรกิจ รองรับรูปแบบบัญชีรับจ่ายตามแบบกรมสรรพากร | `Accounting` `Tax` `SMB` |
 | **[ETF Lens](https://etf-lens-v2.narongsak-lumleatwip.chatgpt.site/)** | เว็บช่วยเริ่มลงทุน ETF สำหรับคนไทย คัดกรอง ETF ตลาดอเมริกาประมาณ 2,000 ตัวแยกเป็น Tier ตอบคำถาม 4 ข้อแล้วแนะนำแนวทางพอร์ต พร้อมงานวิจัยภาษาไทย เปรียบเทียบกองทุน และจำลองแผน DCA ระยะยาว | `ETF` `Investing` `Thai` `DCA` |
+| **[Birney](https://apps.apple.com/th/app/birney/id6764335697)** | แอปบันทึกรายรับรายจ่ายบน iOS ที่สร้างด้วย Claude เพื่อใช้เอง แล้วให้ Claude ช่วยนำขึ้น App Store | `iOS` `Expense Tracking` |
 
 ---
 
 ## 🎮 Games & Entertainment
 
-> 46 โปรเจกต์
+> 47 โปรเจกต์
 
 | ผลิตภัณฑ์ (Product) | รายละเอียด (Description) | Tags |
 | :--- | :--- | :--- |
@@ -239,12 +242,13 @@
 | **[MetaMyth](https://metamyth.live/th)** | เว็บดูดวงที่ถามคำถามได้ ดูดวงรายวันรายสัปดาห์ เป็นสำรับไพ่พกพา | `Tarot` `Astrology` `Web` |
 | **[Sabai Sabai Radio](https://majestic-pithivier-d678d7.netlify.app/)** | วิทยุออนไลน์ดีไซน์บางเบา เพิ่มสถานีวิทยุเองได้ และเลือก Screen Saver หรือวิดีโอจากคลังของผู้ใช้ได้ | `Radio` `Streaming` `Web` |
 | **[Mochitopia](https://mochitopia.hehew.io)** | เกมปลูกผักสร้างบ้าน พัฒนาด้วย Claude ร่วมกับ Pixellab และ Suno | `Web Game` `Farming` `AI Assets` |
+| **[Aurenta Studio Tarot](https://aurentastudio.com/reading)** | เว็บดูดวงไพ่ทาโรต์ที่ถอดวิธีคิดของหมอดูจริงมาใช้ | `Tarot` `Astrology` `Web` |
 
 ---
 
 ## 📱 Productivity & Lifestyle
 
-> 56 โปรเจกต์
+> 61 โปรเจกต์
 
 | ผลิตภัณฑ์ (Product) | รายละเอียด (Description) | Tags |
 | :--- | :--- | :--- |
@@ -304,12 +308,17 @@
 | **[Multi-Screen YouTube Viewer](https://unique-dodol-d669ef.netlify.app/)** | เว็บดู YouTube พร้อมกัน 2 หรือ 4 จอ เพียงคัดลอกลิงก์มาวาง ตั้งค่าแทร็กเสียงหลายภาษาเพื่อฟังเปรียบเทียบได้ | `YouTube` `Multi-View` `Web` |
 | **[OneVela](https://onevela.net/)** | Web App วางแผนทริปและบันทึกการเดินทาง | `Travel` `Trip Planner` `Journal` |
 | **[NeodPDF](https://neodpdf.vercel.app/)** | เว็บแก้ไขไฟล์ PDF ใช้งานฟรีบน Vercel | `PDF` `Editor` `Free` |
+| **[PNTC PDF Tools](https://www.sbtc.pntc.ac.th/pdf-tools)** | ชุดเครื่องมือจัดการไฟล์ PDF ออนไลน์ ให้ใช้งานฟรี (ผู้พัฒนาขอให้ใช้กันพอประมาณเพราะเซิร์ฟเวอร์แรมน้อย) | `PDF` `Tools` `Free` |
+| **[JKT World](https://jkt.world/app)** | แอปที่ผู้พัฒนาแชร์ลิงก์ดาวน์โหลดไว้ในกระทู้ | `App` `Download` |
+| **[MeStack](https://mestack.app)** | เว็บแอป MeStack (ผู้พัฒนาแชร์เฉพาะลิงก์) | `Web App` |
+| **[TopazWork](https://app.topazwork.com)** | แอปจด To-do เชื่อมต่อ Google Calendar พร้อม Voice Summary ที่ถอดเสียงประชุมได้ ใช้งานผ่าน LINE ที่ลิงก์กับแอปโดยตรง หรือจัดการในแอปก็ได้ | `To-Do` `Google Calendar` `LINE` `Transcription` |
+| **[Cadence Tasks & Planning](https://apps.apple.com/th/app/cadence-tasks-planning/id6775131412)** | แอปจัดการงานบน iOS ที่ผู้พัฒนาสร้างใช้เอง แล้วให้ Claude ช่วยนำขึ้น App Store | `iOS` `Task Management` |
 
 ---
 
 ## 🏗️ Real Estate & Construction
 
-> 13 โปรเจกต์
+> 14 โปรเจกต์
 
 | ผลิตภัณฑ์ (Product) | รายละเอียด (Description) | Tags |
 | :--- | :--- | :--- |
@@ -326,12 +335,13 @@
 | **[DefectCheck](https://defectcheck-app.pages.dev)** | เว็บแอปช่วยตรวจรับบ้านและคอนโด ถ่ายรูปและ Export เป็น PDF ได้ | `Real Estate` `Inspection` `PDF` |
 | **[Ashton](https://phattra-ashton.vercel.app/ashton)** | เครื่องมือช่วยเลือกทำเลซื้ออสังหาริมทรัพย์ ดูอนาคตของย่านผ่านโปรเจกต์และ Demand การจ้างงาน ย้อนดูดัชนีอากาศ น้ำท่วม ไฟดับ ไฟไหม้ และสถิติอาชญากรรม พร้อมสถานที่ใกล้เคียงและการเดินทางครบทุกระบบ | `Real Estate` `Location Analysis` `Open Data` |
 | **[LandyAI](https://landyai.app/)** | ระบบค้นหาข้อมูลทรัพย์สำหรับนายหน้าอสังหาริมทรัพย์มืออาชีพ ใช้งานทั้งหมดผ่าน LINE ปัจจุบันใช้งานได้ฟรี | `Real Estate` `LINE` `Search` `Free` |
+| **[SUP-D Asset Search](https://sup-d.com/asset/)** | ระบบค้นหาทรัพย์ขายทอดตลาดจากกรมบังคับคดี ค้นหาแยกตามจังหวัดได้ | `Real Estate` `Auction` `Search` |
 
 ---
 
 ## 🛒 E-Commerce & Marketing
 
-> 36 โปรเจกต์
+> 38 โปรเจกต์
 
 | ผลิตภัณฑ์ (Product) | รายละเอียด (Description) | Tags |
 | :--- | :--- | :--- |
@@ -371,12 +381,14 @@
 | **[BorrowBorrow](https://borowborow.vercel.app/)** | เว็บเช่ายืมของแบบ P2P มีทั้งการจองล่วงหน้าและยืมด่วน สำหรับของที่นาน ๆ ใช้ที | `P2P` `Rental` `Marketplace` |
 | **[DoMerch](https://www.domerch.app)** | เว็บ Print on Demand ที่เพิ่งเริ่มพัฒนา | `Print on Demand` `E-Commerce` |
 | **Wheel Fitment Finder** | ระบบค้นหาสเปกล้อแต่ง แนะนำล้อ เช็คสต๊อก วิเคราะห์ Fitment สำหรับรถแต่ละรุ่น และแนะนำขนาดยาง ใช้ในองค์กรเพื่อแนะนำลูกค้า | `Automotive` `Fitment` `Internal Tool` |
+| **[NQ Fabrik](https://nqfabrik.com)** | เว็บไซต์พร้อมระบบหลังบ้านของร้านรับจ้างพิมพ์งาน พิมพ์ 3D และสลักเลเซอร์ สำหรับทำของขวัญและของชำร่วย | `E-Commerce` `3D Printing` `Laser` |
+| **[Sumora (BIDSUM & FSUM)](https://sumora.app/guide.html)** | Chrome Extension ช่วยสรุปยอดประมูลและยอด F ในกระทู้ Facebook ลดเวลาสรุปยอดได้มาก | `Chrome Extension` `Facebook` `Live Commerce` |
 
 ---
 
 ## 🏥 Health & Public Safety
 
-> 33 โปรเจกต์
+> 36 โปรเจกต์
 
 | ผลิตภัณฑ์ (Product) | รายละเอียด (Description) | Tags |
 | :--- | :--- | :--- |
@@ -413,12 +425,15 @@
 | **[Iroiro Japan](https://apps.apple.com/app/iroiro-japan/id6780112187)** | แอปฝึกอ่านภาษาญี่ปุ่นวันละนิด มีทั้ง iOS และ Android | `Education` `Japanese` `iOS` `Android` |
 | **[Elec Test](https://ann-apichaya.github.io/Elec-test/)** | แบบจำลองเสมือนจริงสำหรับติวเรื่องวงจรไฟฟ้าเบื้องต้น สร้างขึ้นเพราะลูกเรียนไม่เข้าใจ | `Education` `Electronics` `Simulation` |
 | **[Blood Pressure Log (LINE)](https://line.me/R/ti/p/@804gvqjb)** | ระบบให้ผู้สูงอายุจดผลวัดความดันทุกวันผ่าน LINE เรียกดูย้อนหลังและปริ้นให้แพทย์ได้ | `LINE` `Elderly Care` `Health` |
+| **[P-Chad (พี่แชด)](https://www.p-chad.com)** | LINE OA ช่วยจดบันทึกแคลอรี | `LINE OA` `Calories` `Health` |
+| **[Joy Coach](https://joy-coach.joymify.com/)** | แอปบันทึกผลการแข่งขันเทนนิสสำหรับโค้ชและนักกีฬาเยาวชน | `Sports` `Tennis` `Coaching` |
+| **Bunny Poop Scan** | ระบบวิเคราะห์การกินเบื้องต้นของกระต่ายจากมูล ส่วนหนึ่งของเว็บ E-Commerce แบรนด์ Bunnychef พัฒนาด้วย Codex ร่วมกับ Claude อยู่ระหว่างพัฒนาและจะเปิดให้ใช้ฟรี | `Pets` `Computer Vision` `E-Commerce` `WIP` |
 
 ---
 
 ## 🛠️ Hardware & Developer Tools
 
-> 20 โปรเจกต์
+> 21 โปรเจกต์
 
 | ผลิตภัณฑ์ (Product) | รายละเอียด (Description) | Tags |
 | :--- | :--- | :--- |
@@ -442,6 +457,7 @@
 | **[GEIST](https://heygeist.com)** | สัตว์เลี้ยงเอเจนต์บน macOS ที่วิ่งเล่นบนหน้าจอตามจำนวน Agent ที่กำลังรัน แสดง Animation ตามสถานะงาน มีเสียงเตือนและ Bubble Chat เวลา Agent รอคำตอบ พร้อมแสดง Usage รองรับ Claude Code, Claude CoWork, Cursor และ Codex | `macOS` `Agent Monitor` `Claude Code` `Desktop` |
 | **Metal Detection Sensor** | โครงงานเซนเซอร์ตรวจจับโลหะ พัฒนาเดี่ยวโดยใช้ Claude Sonnet ช่วย | `Sensor` `Hardware` `Student Project` |
 | **[QR Simple](https://qr-simple.vercel.app/)** | เว็บสร้าง QR Code และย่อลิงก์ ใช้งานฟรีบน Vercel | `QR Code` `Short Link` `Free` |
+| **[EisenTower Hall of Frames](https://82ay451.github.io/EisenTower/_Hall_of_Frames/index.html)** | เครื่องมือจัดลำดับความสำคัญของงานแนว Eisenhower Matrix (หยุดอัปเดตตั้งแต่เดือนมิถุนายน) | `Productivity` `Eisenhower` `Open Source` |
 
 ---
 
@@ -449,18 +465,18 @@
 
 | หมวดหมู่ (Category) | จำนวน | มีลิงก์ |
 | :--- | ---: | ---: |
-| 🤖 AI Tools & Agents | 31 | 22 |
-| 💼 Business & SaaS | 57 | 36 |
-| 💰 Finance & Wealth | 44 | 32 |
-| 🎮 Games & Entertainment | 46 | 42 |
-| 📱 Productivity & Lifestyle | 56 | 47 |
-| 🏗️ Real Estate & Construction | 13 | 11 |
-| 🛒 E-Commerce & Marketing | 36 | 28 |
-| 🏥 Health & Public Safety | 33 | 30 |
-| 🛠️ Hardware & Developer Tools | 20 | 12 |
-| **รวม (Total)** | **336** | **260** |
+| 🤖 AI Tools & Agents | 31 | 23 |
+| 💼 Business & SaaS | 59 | 39 |
+| 💰 Finance & Wealth | 45 | 33 |
+| 🎮 Games & Entertainment | 47 | 43 |
+| 📱 Productivity & Lifestyle | 61 | 52 |
+| 🏗️ Real Estate & Construction | 14 | 12 |
+| 🛒 E-Commerce & Marketing | 38 | 30 |
+| 🏥 Health & Public Safety | 36 | 32 |
+| 🛠️ Hardware & Developer Tools | 21 | 13 |
+| **รวม (Total)** | **352** | **277** |
 
-**แท็กที่พบบ่อยที่สุด (Top Tags):** `Web` (33), `iOS` (19), `Community` (15), `Automation` (14), `Education` (14), `Android` (14), `AI` (13), `LINE` (13), `SaaS` (11), `Free` (11), `Web Game` (10), `Health` (10), `Travel` (9), `Open Source` (8), `Startup` (8)
+**แท็กที่พบบ่อยที่สุด (Top Tags):** `Web` (34), `iOS` (21), `Community` (15), `Automation` (14), `Education` (14), `LINE` (14), `Android` (14), `AI` (13), `Free` (12), `SaaS` (11), `Health` (11), `E-Commerce` (10), `Web Game` (10), `Open Source` (9), `Travel` (9)
 
 ---
 

@@ -267,7 +267,7 @@
     "id": "ai-018",
     "name": "zframes (Claude Skill)",
     "category": "AI Tools & Agents",
-    "url": "",
+    "url": "https://frames.zentry.com",
     "description": "Claude Skill ที่สร้างบอร์ดวิเคราะห์การลงทุนได้ในประโยคเดียว รวม Options Walls, Short Volume และ SEC Filings ติดตั้งผ่าน npx skills add zentryhq/zframes",
     "tags": [
       "Claude Skill",
@@ -867,7 +867,7 @@
     "id": "biz-027",
     "name": "Sportnec",
     "category": "Business & SaaS",
-    "url": "",
+    "url": "https://www.sportnec.com",
     "description": "แพลตฟอร์มบริหารวงการกีฬาครบวงจร จองสนาม หาก๊วน หาโค้ช ลงแข่งขัน และระบบบริหารสนามกีฬาในแอปเดียว",
     "tags": [
       "Sports",
@@ -1336,6 +1336,36 @@
     "created_at": "2026-08-23T00:34:35+00:00"
   },
   {
+    "id": "biz-058",
+    "name": "UniJob Connect",
+    "category": "Business & SaaS",
+    "url": "https://unijobconnect.com",
+    "description": "แพลตฟอร์มจับคู่งานด้วย AI ที่เชื่อมบริษัทและ SME เข้ากับนักศึกษา เน้นงานสาย Hard Skills ที่ตรงกับสายการเรียน เกิดจาก Pain Point ของผู้พัฒนาที่อยากรับงานจริงตั้งแต่ยังเรียนอยู่",
+    "tags": [
+      "Jobs",
+      "AI Matching",
+      "Students",
+      "Marketplace"
+    ],
+    "raw_comment": "https://unijobconnect.com\n\nUniJob - แพลตฟอร์มหางานสำหรับนักศึกษา\nแพลตฟอร์มจับคู่งานด้วยระบบ AI ที่เชื่อมต่อบริษัทหรือ SME เข้ากับ \"นักศึกษา\" โดยเน้นงานสาย Hard Skills ที่ตรงกับสายการเรียน โปรเจกต์นี้เกิดจาก Pain point สมัยเรียนของผมที่อยากรับงานจริงแต่แพลตฟอร์มส่วนใหญ่เน้นแต่คนที่มีประสบการณ์สูง ผมจึงสร้างพื้นที่นี้ให้นักศึกษาได้นำความรู้มาใช้งานจริงในเรทราคาที่เข้าถึงได้ง่ายกว่า ซึ่งผู้ประกอบการจะได้ผลงานที่คุ้มค่ากับต้นทุน ส่วนนักศึกษาก็ได้เก็บเกี่ยวประสบการณ์จากโลกการทำงานจริงเพื่อสร้าง Portfolio ก่อนเรียนจบครับ",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQyMTk3NDE0NDkzMjY=",
+    "created_at": "2026-08-23T01:51:55+00:00"
+  },
+  {
+    "id": "biz-059",
+    "name": "PPPro",
+    "category": "Business & SaaS",
+    "url": "https://www.pppro.dev",
+    "description": "บริการพัฒนาระบบให้ลูกค้า โดยผู้พัฒนาระบุว่ายึดผลกำไรของลูกค้าเป็นหลัก",
+    "tags": [
+      "Services",
+      "Development"
+    ],
+    "raw_comment": "ลูกค้ากำไร เราก็ชื่นใจคับ www.pppro.dev",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQyMjUyMDQ3ODIxMTM=",
+    "created_at": "2026-08-23T02:00:19+00:00"
+  },
+  {
     "id": "fin-001",
     "name": "Planndee (แปลนดี)",
     "category": "Finance & Wealth",
@@ -1667,7 +1697,7 @@
       "Portfolio",
       "Funds"
     ],
-    "raw_comment": "https://play.google.com/store/apps/details?id=com.saph.fund\n\nแอปบันทึกการซื้อขาย 📈 หุ้นไทย · 🌏 หุ้นนอก · 💰 กองทุนรวม (SSF/RMF/ThaiESG) รวมอยู่ในแอปเดียว\n\nจ่ายให้ Claude ไป $100 ยังไม่เก็บเงินซักบาทเลยครับ เปิดให้ลองใช้ฟรีกันก่อน",
+    "raw_comment": "SAPH Portfolio Tracker - แอปบันทึกการซื้อขาย 📈 หุ้นไทย · 🌏 หุ้นนอก · 💰 กองทุนรวม (SSF/RMF/ThaiESG) รวมอยู่ในแอปเดียว\n\nhttps://play.google.com/store/apps/details?id=com.saph.fund\n\nจ่ายให้ Claude ไป $100 ยังไม่เก็บเงินซักบาทเลยครับ เปิดให้ลองใช้ฟรีกันก่อน",
     "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjM2OTk1MTQ4MzQ2ODI=",
     "created_at": "2026-08-22T12:50:38+00:00"
   },
@@ -2008,6 +2038,20 @@
     "raw_comment": "จากคนทำงานกลางทะเลคนหนึ่ง ที่เห็นเพื่อน ๆ ทำงานหนัก ไม่มีเวลาศึกษาการลงทุน หลายคนมีเงินเก็บแต่ไม่รู้ว่าจะเริ่มต้นอย่างไร ผมจึงทำเครื่องมือนี้ขึ้นมา เพื่อช่วยให้การเริ่มลงทุน ETF เป็นเรื่องง่ายขึ้นครับ\n\nผมนำ ETF ในตลาดอเมริกาประมาณ 2000 ตัวมาคัดกรองแยก tier ด้วยขั้นตอนซับซ้อนหลายชั้น แล้วคัดมาลงเฉพาะดีๆ ซึ่งแค่กระจายความเสี่ยงตามเวปแนะนำ DCA ระยะยาวก็เพียงพอได้เลย\n\nผมเข้าใจว่าคนไทยหลายคน โดยเฉพาะในบางช่วงวัย อาจกังวลกับการลงทุนต่างประเทศ เพราะข้อมูลส่วนใหญ่เป็นภาษาอังกฤษ หาข้อมูลยาก และมีศัพท์เฉพาะเยอะ เว็บไซต์นี้จึงรวบรวมและสรุปข้อมูลสำคัญเป็นภาษาไทย เพื่อให้ทุกคนอ่านและเปรียบเทียบได้ง่ายขึ้น\nวิธีใช้งาน\n1️⃣ เริ่มจากตอบคำถาม 4 ข้อ ได้แก่ เป้าหมาย ระยะเวลาลงทุน ความผันผวนที่รับได้ และความพร้อมด้านเงินฉุกเฉิน\n2️⃣ ระบบจะแสดงแนวทางพอร์ตเบื้องต้นให้เลือกเปรียบเทียบ ตั้งแต่ระดับสมดุล เติบโต ไปจนถึงเติบโตสูง\n3️⃣ ดูว่าแต่ละส่วนของพอร์ตมีหน้าที่อะไร เช่น เป็นกองหลัก กองต่างประเทศ หรือส่วนช่วยกระจายความเสี่ยง\n4️⃣ เลือก ETF ที่สนใจ แล้วกดอ่านงานวิจัยภาษาไทย ทั้งสิ่งที่กองทุนลงทุน ผลตอบแทนที่ผ่านมา ความเสี่ยง ช่วงขาดทุนสูงสุด ค่าธรรมเนียม และหุ้นที่ถืออยู่\n5️⃣ หากยังตัดสินใจไม่ได้ สามารถนำ ETF มาเปรียบเทียบกันก่อน\n6️⃣ ทดลองใส่เงินเริ่มต้นและเงิน DCA รายเดือน เพื่อดูภาพจำลองของแผนระยะยาว\nไม่จำเป็นต้องรู้เรื่อง ETF มาก่อน และไม่ต้องเริ่มจากการจำชื่อกองทุน ค่อย ๆ ทำตามทีละขั้นได้เลยครับ 👇\n\nและโปรเจค AI จัดการบริหารสัดส่วนกองทุน และเทรดหุ้นอัตโนมัติน่าจะเสร็จเร็วๆนี้ครับ\n\nhttps://etf-lens-v2.narongsak-lumleatwip.chatgpt.site/",
     "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQxNzUyOTQ3ODcxMDQ=",
     "created_at": "2026-08-23T00:37:28+00:00"
+  },
+  {
+    "id": "fin-045",
+    "name": "Birney",
+    "category": "Finance & Wealth",
+    "url": "https://apps.apple.com/th/app/birney/id6764335697",
+    "description": "แอปบันทึกรายรับรายจ่ายบน iOS ที่สร้างด้วย Claude เพื่อใช้เอง แล้วให้ Claude ช่วยนำขึ้น App Store",
+    "tags": [
+      "iOS",
+      "Expense Tracking"
+    ],
+    "raw_comment": "ผมใช้ claude สร้าง app บันทึกรายรับรายจ่าย ใช้เองครับ แล้วลองให้ claude เอาไปวางใน app store ให้ครับ (https://apps.apple.com/th/app/birney/id6764335697)\nกับ ทำ app task management ใช้เองครับ แล้วก้ลองให้ claude เอาลง app store เช่นกันครับ (https://apps.apple.com/th/app/cadence-tasks-planning/id6775131412)",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQyMTYyMjE0NDk2Nzg=",
+    "created_at": "2026-08-23T01:47:01+00:00"
   },
   {
     "id": "game-001",
@@ -2687,6 +2731,21 @@
     "raw_comment": "ลองทำปลูกผักสร้างบ้านครับ \n\nhttps://mochitopia.hehew.io\n\nClaude + pixxellab + suno",
     "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQyMDA1MTgxMTc5MTU=",
     "created_at": "2026-08-23T01:22:36+00:00"
+  },
+  {
+    "id": "game-047",
+    "name": "Aurenta Studio Tarot",
+    "category": "Games & Entertainment",
+    "url": "https://aurentastudio.com/reading",
+    "description": "เว็บดูดวงไพ่ทาโรต์ที่ถอดวิธีคิดของหมอดูจริงมาใช้",
+    "tags": [
+      "Tarot",
+      "Astrology",
+      "Web"
+    ],
+    "raw_comment": "เว็บดูดวงไพ่ทาโร่ค่ะ https://aurentastudio.com/reading ดูแบบถอดสมองหมอดูมาจริงๆ ค่ะ",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQyMjAxOTE0NDkyODE=",
+    "created_at": "2026-08-23T01:52:36+00:00"
   },
   {
     "id": "life-001",
@@ -3536,6 +3595,78 @@
     "created_at": "2026-08-23T01:22:43+00:00"
   },
   {
+    "id": "life-057",
+    "name": "PNTC PDF Tools",
+    "category": "Productivity & Lifestyle",
+    "url": "https://www.sbtc.pntc.ac.th/pdf-tools",
+    "description": "ชุดเครื่องมือจัดการไฟล์ PDF ออนไลน์ ให้ใช้งานฟรี (ผู้พัฒนาขอให้ใช้กันพอประมาณเพราะเซิร์ฟเวอร์แรมน้อย)",
+    "tags": [
+      "PDF",
+      "Tools",
+      "Free"
+    ],
+    "raw_comment": "ไปลองใช้กันได้ แต่อย่ารุมใช้นะ เซฟเวอร์ผมแรมน้อย 😅😅\nhttps://www.sbtc.pntc.ac.th/pdf-tools",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjM1Njk5NjgxODA5NzA=",
+    "created_at": "2026-08-22T09:38:39+00:00"
+  },
+  {
+    "id": "life-058",
+    "name": "JKT World",
+    "category": "Productivity & Lifestyle",
+    "url": "https://jkt.world/app",
+    "description": "แอปที่ผู้พัฒนาแชร์ลิงก์ดาวน์โหลดไว้ในกระทู้",
+    "tags": [
+      "App",
+      "Download"
+    ],
+    "raw_comment": "link download: https://jkt.world/app",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjM3NDY2NjgxNjMzMDA=",
+    "created_at": "2026-08-22T13:51:12+00:00"
+  },
+  {
+    "id": "life-059",
+    "name": "MeStack",
+    "category": "Productivity & Lifestyle",
+    "url": "https://mestack.app",
+    "description": "เว็บแอป MeStack (ผู้พัฒนาแชร์เฉพาะลิงก์)",
+    "tags": [
+      "Web App"
+    ],
+    "raw_comment": "mestack.app",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjM3ODMxNjE0OTI5ODQ=",
+    "created_at": "2026-08-22T14:42:11+00:00"
+  },
+  {
+    "id": "life-060",
+    "name": "TopazWork",
+    "category": "Productivity & Lifestyle",
+    "url": "https://app.topazwork.com",
+    "description": "แอปจด To-do เชื่อมต่อ Google Calendar พร้อม Voice Summary ที่ถอดเสียงประชุมได้ ใช้งานผ่าน LINE ที่ลิงก์กับแอปโดยตรง หรือจัดการในแอปก็ได้",
+    "tags": [
+      "To-Do",
+      "Google Calendar",
+      "LINE",
+      "Transcription"
+    ],
+    "raw_comment": "ผมทำแอปจด To-do , เชื่อมต่อ google calendar มี voice summary ที่สามารถถอดเสียงประชุมได้ผ่าน Line ที่ link กับ app โดยตรงสามารถใช้งานผ่าน line เพียงแค่พิมพ์บอก หรือ จะเข้าไปจัดการใน app ก็ได้ครับ\n\nLine : @topazwork\nhttps://app.topazwork.com\nhttps://lin.ee/pdhhGJ2",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQyMDU4NTE0NTA3MTU=",
+    "created_at": "2026-08-23T01:32:17+00:00"
+  },
+  {
+    "id": "life-061",
+    "name": "Cadence Tasks & Planning",
+    "category": "Productivity & Lifestyle",
+    "url": "https://apps.apple.com/th/app/cadence-tasks-planning/id6775131412",
+    "description": "แอปจัดการงานบน iOS ที่ผู้พัฒนาสร้างใช้เอง แล้วให้ Claude ช่วยนำขึ้น App Store",
+    "tags": [
+      "iOS",
+      "Task Management"
+    ],
+    "raw_comment": "ผมใช้ claude สร้าง app บันทึกรายรับรายจ่าย ใช้เองครับ แล้วลองให้ claude เอาไปวางใน app store ให้ครับ (https://apps.apple.com/th/app/birney/id6764335697)\nกับ ทำ app task management ใช้เองครับ แล้วก้ลองให้ claude เอาลง app store เช่นกันครับ (https://apps.apple.com/th/app/cadence-tasks-planning/id6775131412)",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQyMTYyMjE0NDk2Nzg=",
+    "created_at": "2026-08-23T01:47:01+00:00"
+  },
+  {
     "id": "ind-001",
     "name": "Meysure",
     "category": "Real Estate & Construction",
@@ -3732,6 +3863,21 @@
     "raw_comment": "https://landyai.app/\nเลิกค้นหาข้อมูลทรัพย์แบบเดิมๆ ให้ยากลำบาก\nเพราะทุกอย่างอยู่บน LINE ของคุณแล้ว\nสำหรับนายหน้า อสังหาฯ มืออาชีพครับ 🔥\nใช้งานได้ฟรี (ตอนนี้😬)",
     "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQxOTg2NjQ3ODQ3Njc=",
     "created_at": "2026-08-23T01:18:41+00:00"
+  },
+  {
+    "id": "ind-014",
+    "name": "SUP-D Asset Search",
+    "category": "Real Estate & Construction",
+    "url": "https://sup-d.com/asset/",
+    "description": "ระบบค้นหาทรัพย์ขายทอดตลาดจากกรมบังคับคดี ค้นหาแยกตามจังหวัดได้",
+    "tags": [
+      "Real Estate",
+      "Auction",
+      "Search"
+    ],
+    "raw_comment": "Sriprai Boonnok ปัจจุบันมีอยู่นะคับ\nhttps://sup-d.com/asset/?assetSources%5B0%5D=led&filterReset%5BsearchLabel%5D=กรุงเทพมหานคร&filterReset%5BfallbackProvince%5D=กรุงเทพมหานคร&searchType=search",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQxNjM5NDgxMjE1NzI=",
+    "created_at": "2026-08-23T00:15:46+00:00"
   },
   {
     "id": "mkt-001",
@@ -4272,6 +4418,36 @@
     "created_at": "2026-08-23T01:24:29+00:00"
   },
   {
+    "id": "mkt-037",
+    "name": "NQ Fabrik",
+    "category": "E-Commerce & Marketing",
+    "url": "https://nqfabrik.com",
+    "description": "เว็บไซต์พร้อมระบบหลังบ้านของร้านรับจ้างพิมพ์งาน พิมพ์ 3D และสลักเลเซอร์ สำหรับทำของขวัญและของชำร่วย",
+    "tags": [
+      "E-Commerce",
+      "3D Printing",
+      "Laser"
+    ],
+    "raw_comment": "เว็บไซต์พร้อมระบบหลังบ้านของร้านรับจ้างพิมพ์งาน พิมพ์ 3D สลักเลเซอร์ สำหรับทำเป็นของขวัญ ของชำร่วยครับ \nHttps://Nqfabrik.com",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQyMDM4ODgxMTc1Nzg=",
+    "created_at": "2026-08-23T01:29:00+00:00"
+  },
+  {
+    "id": "mkt-038",
+    "name": "Sumora (BIDSUM & FSUM)",
+    "category": "E-Commerce & Marketing",
+    "url": "https://sumora.app/guide.html",
+    "description": "Chrome Extension ช่วยสรุปยอดประมูลและยอด F ในกระทู้ Facebook ลดเวลาสรุปยอดได้มาก",
+    "tags": [
+      "Chrome Extension",
+      "Facebook",
+      "Live Commerce"
+    ],
+    "raw_comment": "BIDSUM & FSUM เป็น Chrome Extension ช่วยสรุปยอดประมูล และ ยอด F กระทู้ใน FB ช่วยลดเวลาตอนสรุปยอดได้เยอะมากครับ อยากให้ลองใช้งานกัน  https://sumora.app/guide.html",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQyMjIwMjQ3ODI0MzE=",
+    "created_at": "2026-08-23T01:55:17+00:00"
+  },
+  {
     "id": "pub-001",
     "name": "Dog Bite Me",
     "category": "Health & Public Safety",
@@ -4773,6 +4949,52 @@
     "created_at": "2026-08-23T00:44:28+00:00"
   },
   {
+    "id": "pub-034",
+    "name": "P-Chad (พี่แชด)",
+    "category": "Health & Public Safety",
+    "url": "https://www.p-chad.com",
+    "description": "LINE OA ช่วยจดบันทึกแคลอรี",
+    "tags": [
+      "LINE OA",
+      "Calories",
+      "Health"
+    ],
+    "raw_comment": "Line oa ช่วยจดแคลครับบ\nwww.p-chad.com",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQyMDk5ODE0NTAzMDI=",
+    "created_at": "2026-08-23T01:37:16+00:00"
+  },
+  {
+    "id": "pub-035",
+    "name": "Joy Coach",
+    "category": "Health & Public Safety",
+    "url": "https://joy-coach.joymify.com/",
+    "description": "แอปบันทึกผลการแข่งขันเทนนิสสำหรับโค้ชและนักกีฬาเยาวชน",
+    "tags": [
+      "Sports",
+      "Tennis",
+      "Coaching"
+    ],
+    "raw_comment": "แอปบันทึกการแข่งเทนนิสให้น้อง ครับ\n\nhttps://joy-coach.joymify.com/",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQyMjczMjgxMTUyMzQ=",
+    "created_at": "2026-08-23T02:03:39+00:00"
+  },
+  {
+    "id": "pub-036",
+    "name": "Bunny Poop Scan",
+    "category": "Health & Public Safety",
+    "url": "",
+    "description": "ระบบวิเคราะห์การกินเบื้องต้นของกระต่ายจากมูล ส่วนหนึ่งของเว็บ E-Commerce แบรนด์ Bunnychef พัฒนาด้วย Codex ร่วมกับ Claude อยู่ระหว่างพัฒนาและจะเปิดให้ใช้ฟรี",
+    "tags": [
+      "Pets",
+      "Computer Vision",
+      "E-Commerce",
+      "WIP"
+    ],
+    "raw_comment": "Bunny poop scan สำหรับขี้กระต่าย วิเคราะห์การกินเบื้องต้นจากมูลน้อง จริงๆเป็น web ecom สำหรับแบรนด์ Bunnychef ใช้ Codex + claude อยู่ในช่วงกำลังพัฒนา ใช้งานฟรี เร็วๆ นี้ครับ ติดตามได้ที่ \nhttps://www.tiktok.com/@orca_cavalcade99?_r=1&_t=ZS-996xOh5fJdk",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQyNDI2MTQ3ODAzNzI=",
+    "created_at": "2026-08-23T02:26:30+00:00"
+  },
+  {
     "id": "dev-001",
     "name": "Gnome Widget Center",
     "category": "Hardware & Developer Tools",
@@ -5080,5 +5302,20 @@
     "raw_comment": "ใช้ฟรีบน vercel ครับ\nhttps://neodpdf.vercel.app/ web edit pdf \nhttps://qr-simple.vercel.app/ web generated qr code และ short link",
     "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjQyMDA1NjgxMTc5MTA=",
     "created_at": "2026-08-23T01:22:43+00:00"
+  },
+  {
+    "id": "dev-021",
+    "name": "EisenTower Hall of Frames",
+    "category": "Hardware & Developer Tools",
+    "url": "https://82ay451.github.io/EisenTower/_Hall_of_Frames/index.html",
+    "description": "เครื่องมือจัดลำดับความสำคัญของงานแนว Eisenhower Matrix (หยุดอัปเดตตั้งแต่เดือนมิถุนายน)",
+    "tags": [
+      "Productivity",
+      "Eisenhower",
+      "Open Source"
+    ],
+    "raw_comment": "https://82ay451.github.io/EisenTower/_Hall_of_Frames/index.html หยุดอัพเดทตอนเดือน june",
+    "source_id": "Y29tbWVudDoyMzIzMDQ3MjExNTY2NTc5XzIzMjM4NDYxMzE0ODY2ODc=",
+    "created_at": "2026-08-22T15:52:55+00:00"
   }
 ]
