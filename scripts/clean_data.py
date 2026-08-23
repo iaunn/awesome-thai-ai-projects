@@ -164,9 +164,18 @@ def merge_exports(paths):
                 continue
             if key not in merged:
                 added += 1
-            elif merged[key].get("message") != item.get("message"):
+                merged[key] = dict(item)
+                continue
+            if merged[key].get("message") != item.get("message"):
                 updated += 1
-            merged[key] = item
+            # Field-level merge, not wholesale replacement. Later exports have
+            # dropped fields the first one carried (reaction_count and
+            # comment_count are absent from every export after the original),
+            # so overwriting the record would silently zero those stats.
+            # A newer export only wins where it actually supplies a value.
+            for field, value in item.items():
+                if value is not None:
+                    merged[key][field] = value
         provenance.append((path, len(messages), added, updated))
     return list(merged.values()), provenance
 

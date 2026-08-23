@@ -3,6 +3,7 @@
 import json
 import re
 from collections import Counter, OrderedDict
+from datetime import datetime, timezone
 
 PROJECTS = "data/projects.json"
 COMMENTS = "data/comments_clean.json"
@@ -43,6 +44,27 @@ def anchor(heading):
     return slug.replace(" ", "-")
 
 
+def data_timestamp(comments):
+    """Newest comment in the dataset, as the 'data current as of' marker.
+
+    Derived from the committed data rather than the wall clock, so the README
+    stays byte-reproducible: re-running the pipeline tomorrow on the same
+    exports produces the same file.
+    """
+    stamps = []
+    for comment in comments:
+        created = comment.get("created_at")
+        if not created:
+            continue
+        try:
+            stamps.append(datetime.fromisoformat(created))
+        except ValueError:
+            continue
+    if not stamps:
+        return None
+    return max(stamps).astimezone(timezone.utc)
+
+
 def escape_cell(text):
     return text.replace("|", "\\|").replace("\n", " ").strip()
 
@@ -61,6 +83,10 @@ def generate_readme(projects_path=PROJECTS, comments_path=COMMENTS,
 
     with_url = sum(1 for p in projects if p.get("url"))
     tag_counts = Counter(t for p in projects for t in p.get("tags", []))
+    latest = data_timestamp(comments)
+    latest_date = latest.strftime("%Y--%m--%d") if latest else "unknown"
+    latest_text = (latest.strftime("%d %B %Y, %H:%M UTC")
+                   if latest else "ไม่ทราบ")
 
     md = []
     add = md.append
@@ -70,6 +96,7 @@ def generate_readme(projects_path=PROJECTS, comments_path=COMMENTS,
     add(f"[![Total Projects](https://img.shields.io/badge/Total_Projects-{len(projects)}-blue.svg)](#) "
         f"[![Cleaned Comments](https://img.shields.io/badge/Cleaned_Comments-{len(comments)}-success.svg)](#) "
         f"[![Categories](https://img.shields.io/badge/Categories-{len(grouped)}-orange.svg)](#) "
+        f"[![Last Updated](https://img.shields.io/badge/Data_Updated-{latest_date}-lightgrey.svg)](#) "
         "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)")
     add("")
     add("> รวมผลงาน เว็บไซต์ แอปพลิเคชัน บอท และระบบต่าง ๆ ที่สร้างขึ้นด้วย **Claude / AI** "
@@ -78,6 +105,10 @@ def generate_readme(projects_path=PROJECTS, comments_path=COMMENTS,
     add(f"ข้อมูลทั้งหมดสกัดจากคอมเมนต์ **{len(comments)}** รายการ ได้เป็น **{len(projects)}** โปรเจกต์ "
         f"(มีลิงก์ใช้งานจริง {with_url} รายการ) ผ่านสคริปต์ใน `scripts/` "
         "โดยตัดข้อมูลส่วนบุคคลออกตามข้อกำหนดใน [REQUIREMENTS.md](REQUIREMENTS.md)")
+    add("")
+    add(f"🕒 **ข้อมูลล่าสุด (Data current as of):** {latest_text} "
+        "— อ้างอิงจากคอมเมนต์ล่าสุดในชุดข้อมูล ไม่ใช่เวลาที่รันสคริปต์ "
+        "จึงทำให้ผลลัพธ์ reproducible")
     add("")
     add("---")
     add("")
