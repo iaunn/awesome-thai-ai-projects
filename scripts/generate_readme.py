@@ -91,7 +91,7 @@ def generate_readme(projects_path=PROJECTS, comments_path=COMMENTS,
     md = []
     add = md.append
 
-    add("# 🚀 Awesome Claude Showcases (Thai Community)")
+    add("# 🚀 Awesome Thai AI Projects")
     add("")
     add(f"[![Total Projects](https://img.shields.io/badge/Total_Projects-{len(projects)}-blue.svg)](#) "
         f"[![Cleaned Comments](https://img.shields.io/badge/Cleaned_Comments-{len(comments)}-success.svg)](#) "
@@ -99,8 +99,8 @@ def generate_readme(projects_path=PROJECTS, comments_path=COMMENTS,
         f"[![Last Updated](https://img.shields.io/badge/Data_Updated-{latest_date}-lightgrey.svg)](#) "
         "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)")
     add("")
-    add("> รวมผลงาน เว็บไซต์ แอปพลิเคชัน บอท และระบบต่าง ๆ ที่สร้างขึ้นด้วย **Claude / AI** "
-        "จากสมาชิกในชุมชน เพื่อเป็นไอเดียและกรณีศึกษาสำหรับการสร้างสรรค์ผลิตภัณฑ์จริง")
+    add("> รวมผลงานจริง — เว็บไซต์ แอปพลิเคชัน บอท เกม และระบบธุรกิจ — ที่นักพัฒนาไทยสร้างขึ้นด้วย **AI** "
+        "(Claude, Codex, Gemini และอื่น ๆ) เพื่อเป็นไอเดียและกรณีศึกษาสำหรับการสร้างสรรค์ผลิตภัณฑ์จริง")
     add("")
     add(f"ข้อมูลทั้งหมดสกัดจากคอมเมนต์ **{len(comments)}** รายการ ได้เป็น **{len(projects)}** โปรเจกต์ "
         f"(มีลิงก์ใช้งานจริง {with_url} รายการ) ผ่านสคริปต์ใน `scripts/` "
@@ -174,7 +174,7 @@ def generate_readme(projects_path=PROJECTS, comments_path=COMMENTS,
     add(f"## {extra[1]}")
     add("")
     add("```text")
-    add("claude-group/")
+    add("awesome-thai-ai-projects/")
     add("├── data/")
     add("│   ├── raw/                    # ไฟล์ Export ดิบ (ไม่ commit — มี PII)")
     add("│   ├── comments_clean.json     # คอมเมนต์ที่ล้าง PII / Metadata แล้ว")

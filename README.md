@@ -1,8 +1,8 @@
-# 🚀 Awesome Claude Showcases (Thai Community)
+# 🚀 Awesome Thai AI Projects
 
 [![Total Projects](https://img.shields.io/badge/Total_Projects-352-blue.svg)](#) [![Cleaned Comments](https://img.shields.io/badge/Cleaned_Comments-1144-success.svg)](#) [![Categories](https://img.shields.io/badge/Categories-9-orange.svg)](#) [![Last Updated](https://img.shields.io/badge/Data_Updated-2026--08--23-lightgrey.svg)](#) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-> รวมผลงาน เว็บไซต์ แอปพลิเคชัน บอท และระบบต่าง ๆ ที่สร้างขึ้นด้วย **Claude / AI** จากสมาชิกในชุมชน เพื่อเป็นไอเดียและกรณีศึกษาสำหรับการสร้างสรรค์ผลิตภัณฑ์จริง
+> รวมผลงานจริง — เว็บไซต์ แอปพลิเคชัน บอท เกม และระบบธุรกิจ — ที่นักพัฒนาไทยสร้างขึ้นด้วย **AI** (Claude, Codex, Gemini และอื่น ๆ) เพื่อเป็นไอเดียและกรณีศึกษาสำหรับการสร้างสรรค์ผลิตภัณฑ์จริง
 
 ข้อมูลทั้งหมดสกัดจากคอมเมนต์ **1144** รายการ ได้เป็น **352** โปรเจกต์ (มีลิงก์ใช้งานจริง 277 รายการ) ผ่านสคริปต์ใน `scripts/` โดยตัดข้อมูลส่วนบุคคลออกตามข้อกำหนดใน [REQUIREMENTS.md](REQUIREMENTS.md)
 
@@ -483,7 +483,7 @@
 ## 📂 โครงสร้างโปรเจกต์ (Project Structure)
 
 ```text
-claude-group/
+awesome-thai-ai-projects/
 ├── data/
 │   ├── raw/                    # ไฟล์ Export ดิบ (ไม่ commit — มี PII)
 │   ├── comments_clean.json     # คอมเมนต์ที่ล้าง PII / Metadata แล้ว

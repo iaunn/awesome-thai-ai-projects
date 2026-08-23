@@ -1,6 +1,6 @@
 # 📋 Project Specification & Requirements (ข้อกำหนดและแนวทางการพัฒนาระบบ)
 
-เอกสารสรุปข้อกำหนด (Requirements), มาตรฐานโครงสร้างข้อมูล (Data Specifications) และแนวทางการจัดการข้อมูลส่วนบุคคลสำหรับคลังข้อมูล **Awesome Claude Showcases (Thai Community)**
+เอกสารสรุปข้อกำหนด (Requirements), มาตรฐานโครงสร้างข้อมูล (Data Specifications) และแนวทางการจัดการข้อมูลส่วนบุคคลสำหรับคลังข้อมูล **Awesome Thai AI Projects**
 
 ---
 
@@ -16,7 +16,7 @@
 ## 2. 📂 โครงสร้างไดเรกทอรี (Directory Structure)
 
 ```text
-claude-group/
+awesome-thai-ai-projects/
 ├── data/
 │   ├── raw/                     # ⛔ ไม่ Track ใน Git (มี PII + CDN Session Token)
 │   │   ├── facebook_feed.json   # ไฟล์ Export ดิบ (วางไฟล์ Export ใหม่เพิ่มในโฟลเดอร์นี้ได้)
